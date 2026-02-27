@@ -1,0 +1,10 @@
+{
+  "name": "podcast",
+  "description": "Interview/podcast — fewer frames, only screen shares",
+  "frame_interval": 30,
+  "hash_threshold": 8,
+  "classify_prompt": "transcript_studio",
+  "summary_sections": ["takeaways", "chapters", "shorts"],
+  "whisper_model": "large-v3",
+  "image_size": "large"
+}

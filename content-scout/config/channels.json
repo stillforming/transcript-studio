@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Jordi Visser Labs",
+    "url": "https://www.youtube.com/@JordiVisserLabs",
+    "handle": "@JordiVisserLabs",
+    "category": "macro-investing",
+    "notes": "30+ year Wall Street veteran. AI-driven macro investing. Deep market analysis. President/CIO of Weiss Multi-Strategy Advisers.",
+    "priority": "high",
+    "source": "hans"
+  },
+  {
+    "name": "The Compound",
+    "url": "https://www.youtube.com/@TheCompoundNews",
+    "handle": "@TheCompoundNews",
+    "category": "market-commentary",
+    "notes": "Joshua Brown & Michael Batnick. Wealth management perspective. Weekly market breakdowns, interviews, macro takes.",
+    "priority": "high",
+    "source": "hans"
+  },
+  {
+    "name": "Risk Reversal Media",
+    "url": "https://www.youtube.com/@RiskReversalMedia",
+    "handle": "@RiskReversalMedia",
+    "category": "options-macro",
+    "notes": "Dan Nathan & Guy Adami. Options-focused market commentary. Macro + single stock analysis. Connected to CNBC Fast Money.",
+    "priority": "high",
+    "source": "hans"
+  },
+  {
+    "name": "Peter Diamandis",
+    "url": "https://www.youtube.com/@peterdiamandis",
+    "handle": "@peterdiamandis",
+    "category": "futurism-technology",
+    "notes": "Futurist, tech visionary. AI/exponential tech trends. Not trading-specific but shapes macro thesis on tech sectors.",
+    "priority": "high",
+    "source": "hans"
+  },
+  {
+    "name": "tastylive",
+    "url": "https://www.youtube.com/@tastyliveshow",
+    "handle": "@tastyliveshow",
+    "category": "options-education",
+    "notes": "Major options platform. 8hrs live daily. Premium selling focus. Huge library.",
+    "priority": "medium",
+    "source": "discovered"
+  },
+  {
+    "name": "Option Alpha",
+    "url": "https://www.youtube.com/@optionalpha",
+    "handle": "@optionalpha",
+    "category": "options-education",
+    "notes": "Beginner-friendly options education. Selling premium, high probability strategies. Automated trading focus.",
+    "priority": "medium",
+    "source": "discovered"
+  },
+  {
+    "name": "Sky View Trading",
+    "url": "https://www.youtube.com/@skyviewtrading",
+    "handle": "@skyviewtrading",
+    "category": "options-strategies",
+    "notes": "In-depth strategy videos. Whiteboard-style Greeks explanations. Premium selling case studies.",
+    "priority": "medium",
+    "source": "discovered"
+  },
+  {
+    "name": "projectfinance",
+    "url": "https://www.youtube.com/@projectfinance",
+    "handle": "@projectfinance",
+    "category": "options-education",
+    "notes": "Chris Butler. Clean educational content on common options strategies. Well-produced.",
+    "priority": "medium",
+    "source": "discovered"
+  },
+  {
+    "name": "InTheMoney",
+    "url": "https://www.youtube.com/@InTheMoneyAdam",
+    "handle": "@InTheMoneyAdam",
+    "category": "options-education",
+    "notes": "Adam. 320K+ subs, 14M+ views. Younger audience. Makes options accessible.",
+    "priority": "medium",
+    "source": "discovered"
+  },
+  {
+    "name": "BestStockStrategy",
+    "url": "https://www.youtube.com/@BestStockStrategy",
+    "handle": "@BestStockStrategy",
+    "category": "options-selling",
+    "notes": "David Jaffee. Options selling focused. Direct competitor to premium-selling education.",
+    "priority": "low",
+    "source": "discovered"
+  }
+]

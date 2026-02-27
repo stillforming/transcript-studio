@@ -1,0 +1,338 @@
+{
+  "signal_extraction": {
+    "quick_verdict": "Mostly trading psychology/portfolio-construction education wrapped around a funnel to a paid/private community; no macro views, no tickers, no catalysts. The only actionable content is the generic idea that smoothing returns via uncorrelated strategy ensembles + automation improves scalability—useful as evergreen education, not as a timely market segment.",
+    "speaker_assessment": "Low-to-medium credibility presented with high-conviction marketing language; clear promotional conflict (teases proprietary strategies, pushes private community/fund) and provides no independently verifiable track record or specific rules/positions.",
+    "market_bias": {
+      "tone": "Neutral",
+      "regime": null,
+      "risk_tilt": "Neutral",
+      "cycle_position": null
+    },
+    "macro_signals": {
+      "rates": null,
+      "credit": null,
+      "liquidity": null,
+      "volatility": "General (non-macro) point that lower path volatility/smoother equity curves are preferable and more scalable; mentions 'short volatility' strategy works in choppy/mean-reverting markets but gives no market-level vol view.",
+      "structural_shifts": null,
+      "has_signal": false
+    },
+    "tickers": [],
+    "catalysts": [],
+    "show_relevance": {
+      "ai_thesis": "No",
+      "software_repricing": "No",
+      "infrastructure": "No",
+      "rate_regime": "No",
+      "liquidity_cycle": "No",
+      "contradicts_narrative": "Challenges the retail 'holy grail single strategy' narrative; argues pros optimize risk-adjusted return via ensembles and scaling, not raw returns.",
+      "segment_potential": "Skip for macro/AI show; at best a short evergreen sidebar on why equity-curve shape (Sharpe/Sortino/mar) matters more than headline returns and why single-strategy backtests fail."
+    },
+    "scores": {
+      "macro_impact": 0,
+      "stock_idea_density": 0,
+      "contrarian_value": 1,
+      "ai_infrastructure_relevance": 0,
+      "show_utility": 1
+    }
+  },
+  "takeaways": [
+    {
+      "text": "Argues the 'better' strategy is often the lower-volatility one because you can theoretically lever/scale it, while high-volatility paths create drawdowns and behavioral failure risk.",
+      "timestamp": "03:38",
+      "timestamp_seconds": 218
+    },
+    {
+      "text": "Core claim: pros don't chase maximum returns; they engineer the equity curve (consistency/low drawdowns) and then scale position size to reach target returns.",
+      "timestamp": "04:07",
+      "timestamp_seconds": 247
+    },
+    {
+      "text": "Claims hedge funds prioritize risk metrics (Sharpe/Sortino/volatility) over raw returns when evaluating a strategy pitch.",
+      "timestamp": "04:29",
+      "timestamp_seconds": 269
+    },
+    {
+      "text": "Rejects the idea of a single durable holy-grail strategy; says single systems that look great for 1–2 years often hide tail risk (e.g., martingale-style blowup risk).",
+      "timestamp": "05:12",
+      "timestamp_seconds": 312
+    },
+    {
+      "text": "Promotes 'ensemble portfolio' construction: blend uncorrelated/inversely correlated systems to smooth returns and reduce drawdowns; demonstrates via combining two simulated strategies.",
+      "timestamp": "06:39",
+      "timestamp_seconds": 399
+    },
+    {
+      "text": "Claims combining strategies improves Marr ratio (annualized return / max drawdown), Sharpe, and reduces volatility, making the result more scalable.",
+      "timestamp": "07:19",
+      "timestamp_seconds": 439
+    },
+    {
+      "text": "Shows a multi-strategy portfolio simulation (10 strategies) where turning on more systems smooths the portfolio curve and improves return vs drawdown versus individual components.",
+      "timestamp": "08:51",
+      "timestamp_seconds": 531
+    },
+    {
+      "text": "Uses Lopez de Prado quote: pros 'mass produce strategies' (build a factory), monitor, and retire them—framing systematic trading as a process/business.",
+      "timestamp": "10:58",
+      "timestamp_seconds": 658
+    },
+    {
+      "text": "Gives a stylized example day: a short-volatility/mean-reversion system loses during a downside trend, but a 0DTE bearish trend system offsets losses; later a 'power hour' bullish system redeploys unused/margined capital.",
+      "timestamp": "12:31",
+      "timestamp_seconds": 751
+    },
+    {
+      "text": "Concludes manual execution is impractical across multiple systems; argues automation is the scalable solution and pitches a private community while showing an account/software screen.",
+      "timestamp": "15:34",
+      "timestamp_seconds": 934
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Hook: pros vs retail and the 'holy grail' myth",
+      "timestamp": "00:00",
+      "timestamp_seconds": 0
+    },
+    {
+      "title": "Claim: retail has tools now; it's a knowledge gap",
+      "timestamp": "00:46",
+      "timestamp_seconds": 46
+    },
+    {
+      "title": "Point 1: redefine the goal (engineer equity curve)",
+      "timestamp": "01:48",
+      "timestamp_seconds": 108
+    },
+    {
+      "title": "Path matters: same return, smoother is better",
+      "timestamp": "02:05",
+      "timestamp_seconds": 125
+    },
+    {
+      "title": "Pros choose lower vol because you can scale",
+      "timestamp": "03:05",
+      "timestamp_seconds": 185
+    },
+    {
+      "title": "What hedge funds ask for: Sharpe/Sortino/volatility",
+      "timestamp": "04:25",
+      "timestamp_seconds": 265
+    },
+    {
+      "title": "No single strategy lasts; beware 'ticking time bombs'",
+      "timestamp": "05:00",
+      "timestamp_seconds": 300
+    },
+    {
+      "title": "Holy grail = portfolio construction (ensemble)",
+      "timestamp": "05:47",
+      "timestamp_seconds": 347
+    },
+    {
+      "title": "Combine two strategies: smoother curve and better ratios",
+      "timestamp": "06:39",
+      "timestamp_seconds": 399
+    },
+    {
+      "title": "Scale the smoother portfolio; avoid single point of failure",
+      "timestamp": "07:48",
+      "timestamp_seconds": 468
+    },
+    {
+      "title": "10-strategy ensemble simulation and clustering risk",
+      "timestamp": "08:51",
+      "timestamp_seconds": 531
+    },
+    {
+      "title": "De Prado quote: build a 'strategy factory'",
+      "timestamp": "10:58",
+      "timestamp_seconds": 658
+    },
+    {
+      "title": "Live-trade examples: systems offset each other intraday",
+      "timestamp": "12:29",
+      "timestamp_seconds": 749
+    },
+    {
+      "title": "Automation pitch + account/software screen + community CTA",
+      "timestamp": "15:34",
+      "timestamp_seconds": 934
+    }
+  ],
+  "shorts": [
+    {
+      "start": "00:00",
+      "end": "00:28",
+      "start_seconds": 0,
+      "end_seconds": 28,
+      "hook": "Retail hunts 'holy grails' while pros keep winning.",
+      "payoff": "Sets up that pros win by playing a different game—not a secret indicator.",
+      "on_screen_text": "Pros play a different game",
+      "cta": "Subscribe for real trading frameworks"
+    },
+    {
+      "start": "01:48",
+      "end": "02:21",
+      "start_seconds": 108,
+      "end_seconds": 141,
+      "hook": "What if the goal of trading isn't 'make the most money'?",
+      "payoff": "The real goal is engineering a consistent equity curve; money is a byproduct.",
+      "on_screen_text": "Stop chasing returns",
+      "cta": "Watch the full breakdown"
+    },
+    {
+      "start": "02:05",
+      "end": "02:48",
+      "start_seconds": 125,
+      "end_seconds": 168,
+      "hook": "Two investments, same return—one is clearly better.",
+      "payoff": "Path/volatility matters; smoother returns dominate even with identical endpoints.",
+      "on_screen_text": "Same return, different risk",
+      "cta": "Save this for later"
+    },
+    {
+      "start": "03:05",
+      "end": "03:41",
+      "start_seconds": 185,
+      "end_seconds": 221,
+      "hook": "Pros often choose the LOWER return line.",
+      "payoff": "Lower volatility can be scaled; high volatility breaks sizing and psychology.",
+      "on_screen_text": "Pros pick lower volatility",
+      "cta": "Share with a trader friend"
+    },
+    {
+      "start": "03:41",
+      "end": "04:07",
+      "start_seconds": 221,
+      "end_seconds": 247,
+      "hook": "The cheat code: if it's smooth, you can add size.",
+      "payoff": "Engineering the shape of returns first enables scaling later.",
+      "on_screen_text": "Engineer then scale",
+      "cta": "Follow for portfolio construction"
+    },
+    {
+      "start": "04:25",
+      "end": "04:56",
+      "start_seconds": 265,
+      "end_seconds": 296,
+      "hook": "What hedge funds actually ask you for.",
+      "payoff": "Risk metrics like Sharpe/Sortino/volatility—not just headline returns.",
+      "on_screen_text": "HFs ask for risk stats",
+      "cta": "Watch full video for context"
+    },
+    {
+      "start": "05:00",
+      "end": "05:29",
+      "start_seconds": 300,
+      "end_seconds": 329,
+      "hook": "A single strategy that looks perfect is usually hiding something.",
+      "payoff": "Calls out martingale/tail-risk 'time bombs' that blow up eventually.",
+      "on_screen_text": "Beware backtest time bombs",
+      "cta": "Subscribe for risk-first trading"
+    },
+    {
+      "start": "05:47",
+      "end": "06:12",
+      "start_seconds": 347,
+      "end_seconds": 372,
+      "hook": "The real 'holy grail' isn't a strategy.",
+      "payoff": "It’s portfolio construction: an ensemble of complementary systems.",
+      "on_screen_text": "Holy grail = ensemble",
+      "cta": "Comment: strategy or portfolio?"
+    },
+    {
+      "start": "06:39",
+      "end": "07:06",
+      "start_seconds": 399,
+      "end_seconds": 426,
+      "hook": "Two mediocre curves become one strong curve.",
+      "payoff": "Combining inversely correlated systems smooths equity and improves drawdowns.",
+      "on_screen_text": "Combine uncorrelated edges",
+      "cta": "Save this clip"
+    },
+    {
+      "start": "08:51",
+      "end": "09:21",
+      "start_seconds": 531,
+      "end_seconds": 561,
+      "hook": "Watch what happens as you 'turn on' more strategies.",
+      "payoff": "Portfolio curve smooths; drawdown drops; risk-adjusted return improves.",
+      "on_screen_text": "Portfolio beats components",
+      "cta": "Watch the full simulation"
+    },
+    {
+      "start": "10:58",
+      "end": "11:29",
+      "start_seconds": 658,
+      "end_seconds": 689,
+      "hook": "Pros don't build a car. They build a car factory.",
+      "payoff": "Framework for mass-producing, monitoring, and retiring strategies (process > single setup).",
+      "on_screen_text": "Build the strategy factory",
+      "cta": "Subscribe for systematic trading"
+    },
+    {
+      "start": "12:31",
+      "end": "13:09",
+      "start_seconds": 751,
+      "end_seconds": 789,
+      "hook": "Mean reversion lost—trend system saved the day.",
+      "payoff": "Example of diversified systems offsetting each other during a selloff day.",
+      "on_screen_text": "Systems hedge each other",
+      "cta": "Watch full example"
+    },
+    {
+      "start": "15:34",
+      "end": "16:12",
+      "start_seconds": 934,
+      "end_seconds": 972,
+      "hook": "Five systems manually is like playing five chess games at once.",
+      "payoff": "Argument that automation is required to execute ensembles without human error/emotion.",
+      "on_screen_text": "Automation enables scaling",
+      "cta": "Check the full workflow"
+    },
+    {
+      "start": "16:25",
+      "end": "16:57",
+      "start_seconds": 985,
+      "end_seconds": 1017,
+      "hook": "Account screen: trades firing while I'm talking.",
+      "payoff": "Uses on-screen platform to reinforce the automation pitch (not a replicable strategy reveal).",
+      "on_screen_text": "Trades firing automatically",
+      "cta": "See full video for details"
+    }
+  ],
+  "slide_suggestions": [
+    {
+      "text": "Slide: 'Same return ≠ same strategy' (two paths, same endpoint) + label 'volatility / drawdown matters'",
+      "timestamp": "02:05"
+    },
+    {
+      "text": "Slide: 'Pros optimize: Sharpe, Sortino, Max DD, MAR' (definitions in one line each)",
+      "timestamp": "04:29"
+    },
+    {
+      "text": "Slide: 'Engineer equity curve → then scale size' (simple 2-step flow)",
+      "timestamp": "04:07"
+    },
+    {
+      "text": "Slide: 'No single strategy is durable' + examples of hidden tail-risk (martingale) as a warning box",
+      "timestamp": "05:12"
+    },
+    {
+      "text": "Slide: 'Ensemble portfolio' diagram: Strategy A + Strategy B (inverse corr) → smoother combined curve",
+      "timestamp": "06:45"
+    },
+    {
+      "text": "Slide: 'MAR ratio = Annualized Return / Max Drawdown' and why it matters for scaling",
+      "timestamp": "07:24"
+    },
+    {
+      "text": "Slide: 'Diversify by strategy AND by time' (tranching/entries across day)",
+      "timestamp": "14:29"
+    },
+    {
+      "text": "Slide: 'Automation benefit stack' (precision, parallel execution, removes emotion, reduces missed trades)",
+      "timestamp": "19:03"
+    }
+  ]
+}

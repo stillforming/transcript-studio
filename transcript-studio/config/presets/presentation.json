@@ -1,0 +1,10 @@
+{
+  "name": "presentation",
+  "description": "Slides-heavy — aggressive frame capture",
+  "frame_interval": 5,
+  "hash_threshold": 3,
+  "classify_prompt": "transcript_studio",
+  "summary_sections": ["takeaways", "chapters", "shorts", "slides"],
+  "whisper_model": "large-v3",
+  "image_size": "large"
+}

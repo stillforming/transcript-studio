@@ -1,0 +1,10 @@
+{
+  "name": "default",
+  "description": "Standard finance/tech video processing",
+  "frame_interval": 15,
+  "hash_threshold": 5,
+  "classify_prompt": "transcript_studio",
+  "summary_sections": ["takeaways", "chapters", "shorts", "slides"],
+  "whisper_model": "large-v3",
+  "image_size": "large"
+}

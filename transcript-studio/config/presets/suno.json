@@ -1,0 +1,10 @@
+{
+  "name": "suno",
+  "description": "Suno music/tool updates — adds features brief",
+  "frame_interval": 10,
+  "hash_threshold": 5,
+  "classify_prompt": "transcript_studio",
+  "summary_sections": ["takeaways", "chapters", "shorts", "slides", "suno_features"],
+  "whisper_model": "large-v3",
+  "image_size": "large"
+}

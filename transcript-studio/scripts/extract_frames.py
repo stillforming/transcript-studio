@@ -1,0 +1,1 @@
+/home/molt/clawd/skills/content-scout/scripts/extract_frames.py

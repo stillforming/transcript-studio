@@ -1,0 +1,29 @@
+{
+  "highRelevance": [
+    "options selling", "premium selling", "cash flow", "covered calls",
+    "credit spreads", "iron condor", "iron butterfly", "put selling",
+    "wheel strategy", "options income", "theta decay", "theta gang",
+    "implied volatility", "IV rank", "IV percentile", "volatility crush",
+    "options Greeks", "delta neutral", "gamma risk", "vega",
+    "SPY", "QQQ", "NVDA", "AAPL", "TSLA", "AMD", "META", "AMZN",
+    "earnings play", "earnings straddle", "LEAPS",
+    "risk management", "position sizing", "portfolio margin",
+    "Bollinger Bands", "options skew", "VIX"
+  ],
+  "mediumRelevance": [
+    "options", "calls", "puts", "strike", "expiration",
+    "spread", "debit spread", "butterfly", "condor", "strangle", "straddle",
+    "technical analysis", "chart", "support", "resistance",
+    "RSI", "MACD", "moving average", "volume",
+    "trade management", "rolling options", "assignment",
+    "watchlist", "scanner", "screener",
+    "sector rotation", "momentum", "trend",
+    "0DTE", "weekly options", "monthly options"
+  ],
+  "exclude": [
+    "giveaway", "unboxing", "vlog", "day in my life",
+    "what is a stock", "how to open an account",
+    "crypto", "forex", "NFT", "memecoin", "bitcoin",
+    "penny stocks", "pump and dump"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "pipeline": {
+    "dailyVideoLimit": 5,
+    "maxVideoDurationMinutes": 60,
+    "minVideoDurationMinutes": 3,
+    "frameIntervalSeconds": 5,
+    "phashHammingThreshold": 5,
+    "classificationConfidenceThreshold": 0.7,
+    "annotationBatchSize": 5,
+    "transcriptWindowSeconds": 30,
+    "imageMaxWidth": 1920,
+    "imageQuality": 85,
+    "imageFormat": "webp"
+  },
+  "scoring": {
+    "recencyWeight": 0.3,
+    "priorityWeight": 0.3,
+    "keywordWeight": 0.4
+  },
+  "youtube": {
+    "maxResolution": 720,
+    "downloadConcurrency": 2,
+    "delayBetweenDownloadsMs": 5000
+  },
+  "whisper": {
+    "model": "whisper-1",
+    "responseFormat": "verbose_json",
+    "timestampGranularity": "segment",
+    "maxFileSizeMb": 25,
+    "chunkDurationSeconds": 600
+  },
+  "notion": {
+    "contentVaultDatabaseId": "",
+    "dailyBriefsDatabaseId": "",
+    "channelsDatabaseId": "",
+    "rateLimitMs": 350
+  },
+  "schedule": {
+    "dailyPipelineCron": "0 6 * * *",
+    "weeklyDiscoveryCron": "0 10 * * 0",
+    "timezone": "America/Chicago"
+  },
+  "discovery": {
+    "minSubscribers": 1000,
+    "maxSubscribers": 500000,
+    "minUploadFrequencyPerWeek": 2,
+    "sampleVideosForScoring": 1,
+    "stalenessThresholdDays": 21,
+    "minAvgRelevance": 2.0
+  }
+}

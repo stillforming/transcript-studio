@@ -1,0 +1,802 @@
+{
+  "videoId": "B8N8VE5astE",
+  "videoTitle": "Live ORB Automation on 3 Timeframes (15, 30, 60 Minute Bots)",
+  "channelName": "Option Alpha",
+  "channelSlug": "option-alpha",
+  "url": "https://youtube.com/watch?v=B8N8VE5astE",
+  "engine": "openai",
+  "model": "whisper-1",
+  "diarizationEnabled": false,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.880000114440918,
+      "text": "Hey everyone, welcome back to Arianne's automation journey. Good news, I have",
+      "speaker": "Speaker 1",
+      "minute_mark": "00:00"
+    },
+    {
+      "start": 7.880000114440918,
+      "end": 14.399999618530273,
+      "text": "since graduated from automation kindergarten to I'm definitely in at",
+      "speaker": "Speaker 1",
+      "minute_mark": "00:00"
+    },
+    {
+      "start": 14.399999618530273,
+      "end": 19.399999618530273,
+      "text": "least third grade. I've got a bunch of bots running, I'm making my lunch money,",
+      "speaker": "Speaker 1",
+      "minute_mark": "00:00"
+    },
+    {
+      "start": 19.399999618530273,
+      "end": 25.200000762939453,
+      "text": "and things are happening. We know there's no free lunch in this school so in this",
+      "speaker": "Speaker 1",
+      "minute_mark": "00:00"
+    },
+    {
+      "start": 25.200000762939453,
+      "end": 31.440000534057617,
+      "text": "video I will go over the three specific opening range breakout bots that I",
+      "speaker": "Speaker 1",
+      "minute_mark": "00:00"
+    },
+    {
+      "start": 31.440000534057617,
+      "end": 37.400001525878906,
+      "text": "talked about in my last YouTube video and show you how they've been performing,",
+      "speaker": "Speaker 1",
+      "minute_mark": "00:00"
+    },
+    {
+      "start": 37.400001525878906,
+      "end": 42.560001373291016,
+      "text": "show you where you can get them, and hopefully learn a thing or two. All right",
+      "speaker": "Speaker 1",
+      "minute_mark": "00:00"
+    },
+    {
+      "start": 42.560001373291016,
+      "end": 49.2400016784668,
+      "text": "let's get into it. Hey everyone, welcome to my 60-minute, 10-wide opening range",
+      "speaker": "Speaker 1",
+      "minute_mark": "00:00"
+    },
+    {
+      "start": 49.2400016784668,
+      "end": 52.63999938964844,
+      "text": "breakout vlog. You've seen this before if you've watched any of my previous",
+      "speaker": "Speaker 1",
+      "minute_mark": "00:00"
+    },
+    {
+      "start": 53.439998626708984,
+      "end": 59.599998474121094,
+      "text": "videos. Let me go over the most recent result. Let me start from the beginning",
+      "speaker": "Speaker 1",
+      "minute_mark": "00:00"
+    },
+    {
+      "start": 59.599998474121094,
+      "end": 66.4000015258789,
+      "text": "just really quickly. I've been trading this since July of 2025. Holy smokes, where",
+      "speaker": "Speaker 1",
+      "minute_mark": "00:00"
+    },
+    {
+      "start": 66.4000015258789,
+      "end": 71.72000122070312,
+      "text": "is the time gone? Has it been that long? Oh my gosh. Okay, I have traded it now a",
+      "speaker": "Speaker 1",
+      "minute_mark": "01:00"
+    },
+    {
+      "start": 71.72000122070312,
+      "end": 79.12000274658203,
+      "text": "total of 87 times with an 83% win rate. Okay, not bad. Less than an hour time in",
+      "speaker": "Speaker 1",
+      "minute_mark": "01:00"
+    },
+    {
+      "start": 79.12000274658203,
+      "end": 83.83999633789062,
+      "text": "trade. There's the average margin requirement and an incredible ROI. I know",
+      "speaker": "Speaker 1",
+      "minute_mark": "01:00"
+    },
+    {
+      "start": 83.83999633789062,
+      "end": 90.4000015258789,
+      "text": "that... wait, did I say this? Okay, so I, since my last YouTube video, I really",
+      "speaker": "Speaker 1",
+      "minute_mark": "01:00"
+    },
+    {
+      "start": 90.4000015258789,
+      "end": 98.08000183105469,
+      "text": "tried not to add any manual occurrences because previously I was taking",
+      "speaker": "Speaker 1",
+      "minute_mark": "01:00"
+    },
+    {
+      "start": 98.08000183105469,
+      "end": 103.19999694824219,
+      "text": "additional positions but I'm like, let me just see how the bot works without me",
+      "speaker": "Speaker 1",
+      "minute_mark": "01:00"
+    },
+    {
+      "start": 103.19999694824219,
+      "end": 108.0,
+      "text": "taking any manual positions because that is the point of the bot, right? And so",
+      "speaker": "Speaker 1",
+      "minute_mark": "01:00"
+    },
+    {
+      "start": 108.0,
+      "end": 113.4800033569336,
+      "text": "that's what this last big chunk is. In November, not that many occurrences",
+      "speaker": "Speaker 1",
+      "minute_mark": "01:00"
+    },
+    {
+      "start": 113.4800033569336,
+      "end": 120.91999816894531,
+      "text": "triggered. It lost twice. In December, more occurrences, more losses. It lost three",
+      "speaker": "Speaker 1",
+      "minute_mark": "01:00"
+    },
+    {
+      "start": 120.91999816894531,
+      "end": 129.0,
+      "text": "times. And in January, it is picking back up. Several more occurrences, one loss.",
+      "speaker": "Speaker 1",
+      "minute_mark": "02:00"
+    },
+    {
+      "start": 129.0,
+      "end": 135.8800048828125,
+      "text": "You know, coincidentally, I manually trade another strategy that is also triggered",
+      "speaker": "Speaker 1",
+      "minute_mark": "02:00"
+    },
+    {
+      "start": 135.8800048828125,
+      "end": 143.1199951171875,
+      "text": "at exactly 60 minutes into the market open. And that one had like a terrible",
+      "speaker": "Speaker 1",
+      "minute_mark": "02:00"
+    },
+    {
+      "start": 143.1199951171875,
+      "end": 148.24000549316406,
+      "text": "November and December, which is odd because I've been trading that strategy",
+      "speaker": "Speaker 1",
+      "minute_mark": "02:00"
+    },
+    {
+      "start": 148.24000549316406,
+      "end": 154.16000366210938,
+      "text": "for years. And so I'm just gonna attribute this to the one hour having",
+      "speaker": "Speaker 1",
+      "minute_mark": "02:00"
+    },
+    {
+      "start": 154.16000366210938,
+      "end": 158.8000030517578,
+      "text": "some troubles on zero DTE the end of last year. But it seems to be coming out",
+      "speaker": "Speaker 1",
+      "minute_mark": "02:00"
+    },
+    {
+      "start": 158.8000030517578,
+      "end": 163.63999938964844,
+      "text": "of that, you know, valley where on the P&L curve it's going up and then it's going",
+      "speaker": "Speaker 1",
+      "minute_mark": "02:00"
+    },
+    {
+      "start": 163.63999938964844,
+      "end": 170.0399932861328,
+      "text": "like this. What can I say about this? I will link this bot template for you, of",
+      "speaker": "Speaker 1",
+      "minute_mark": "02:00"
+    },
+    {
+      "start": 170.0399932861328,
+      "end": 177.6199951171875,
+      "text": "course, in the caption. I shared it some time ago. This strategy is a wonderful",
+      "speaker": "Speaker 1",
+      "minute_mark": "02:00"
+    },
+    {
+      "start": 177.6199951171875,
+      "end": 184.8800048828125,
+      "text": "strategy. I love trading it manually. I think just having had the bot run now",
+      "speaker": "Speaker 1",
+      "minute_mark": "02:00"
+    },
+    {
+      "start": 184.8800048828125,
+      "end": 190.1999969482422,
+      "text": "for three months with zero manual interception, I just feel like this",
+      "speaker": "Speaker 1",
+      "minute_mark": "03:00"
+    },
+    {
+      "start": 190.32000732421875,
+      "end": 197.32000732421875,
+      "text": "strategy is so much better traded manually. Let me give you a good example.",
+      "speaker": "Speaker 1",
+      "minute_mark": "03:00"
+    },
+    {
+      "start": 197.33999633789062,
+      "end": 203.60000610351562,
+      "text": "This is what I mean. OK, my friends, look at this day. On this day, the bot entered",
+      "speaker": "Speaker 1",
+      "minute_mark": "03:00"
+    },
+    {
+      "start": 203.60000610351562,
+      "end": 208.72000122070312,
+      "text": "its position, by the way, the specific standard time, obviously, at 731. A mere",
+      "speaker": "Speaker 1",
+      "minute_mark": "03:00"
+    },
+    {
+      "start": 208.72000122070312,
+      "end": 215.60000610351562,
+      "text": "two minutes later, OK, I entered my position for 30 cents more than the bot",
+      "speaker": "Speaker 1",
+      "minute_mark": "03:00"
+    },
+    {
+      "start": 215.8000030517578,
+      "end": 221.27999877929688,
+      "text": "entered its position. Now, 30 cents, not a big deal, but that's 75% of my profit",
+      "speaker": "Speaker 1",
+      "minute_mark": "03:00"
+    },
+    {
+      "start": 221.27999877929688,
+      "end": 225.67999267578125,
+      "text": "target. OK, so then I was out of the trade in a mere three minutes versus the",
+      "speaker": "Speaker 1",
+      "minute_mark": "03:00"
+    },
+    {
+      "start": 225.67999267578125,
+      "end": 234.0800018310547,
+      "text": "bot's 32 minutes. So need I say more? I mean, that's really how I feel about this",
+      "speaker": "Speaker 1",
+      "minute_mark": "03:00"
+    },
+    {
+      "start": 234.0800018310547,
+      "end": 238.83999633789062,
+      "text": "particular strategy. I'm just going to continue to let the bot run unless",
+      "speaker": "Speaker 1",
+      "minute_mark": "03:00"
+    },
+    {
+      "start": 238.83999633789062,
+      "end": 243.8800048828125,
+      "text": "something, you know, catastrophic happens where I have a really bad red month. I",
+      "speaker": "Speaker 1",
+      "minute_mark": "03:00"
+    },
+    {
+      "start": 243.8800048828125,
+      "end": 250.8000030517578,
+      "text": "don't care if the win rate continues at 83%. So long as it is a green at the end",
+      "speaker": "Speaker 1",
+      "minute_mark": "04:00"
+    },
+    {
+      "start": 250.8000030517578,
+      "end": 255.27999877929688,
+      "text": "of the month, we're going to keep trucking and I will, of course, continue to",
+      "speaker": "Speaker 1",
+      "minute_mark": "04:00"
+    },
+    {
+      "start": 255.27999877929688,
+      "end": 259.2799987792969,
+      "text": "update you on this. All right, let's move on to the 30 minute opening range bot.",
+      "speaker": "Speaker 1",
+      "minute_mark": "04:00"
+    },
+    {
+      "start": 259.2799987792969,
+      "end": 265.55999755859375,
+      "text": "Don't come for me. I'm sorry, but I only have two closed positions to share. I",
+      "speaker": "Speaker 1",
+      "minute_mark": "04:00"
+    },
+    {
+      "start": 265.55999755859375,
+      "end": 272.20001220703125,
+      "text": "don't really recall why. I think I have an irrational fear of day trading zero",
+      "speaker": "Speaker 1",
+      "minute_mark": "04:00"
+    },
+    {
+      "start": 272.239990234375,
+      "end": 278.9599914550781,
+      "text": "DTE for the first week of January. And so I don't think I even slid the old",
+      "speaker": "Speaker 1",
+      "minute_mark": "04:00"
+    },
+    {
+      "start": 278.9599914550781,
+      "end": 283.79998779296875,
+      "text": "automation button on until after that time. And then we had like a bit of a",
+      "speaker": "Speaker 1",
+      "minute_mark": "04:00"
+    },
+    {
+      "start": 283.79998779296875,
+      "end": 287.3999938964844,
+      "text": "sell off and whatever. There was lots of settings that this bot has that was",
+      "speaker": "Speaker 1",
+      "minute_mark": "04:00"
+    },
+    {
+      "start": 287.3999938964844,
+      "end": 293.2799987792969,
+      "text": "preventing it from taking a position. So I hope to have more than this to share",
+      "speaker": "Speaker 1",
+      "minute_mark": "04:00"
+    },
+    {
+      "start": 293.2799987792969,
+      "end": 300.6000061035156,
+      "text": "with you. I absolutely love this bot so far, just because I really was not",
+      "speaker": "Speaker 1",
+      "minute_mark": "04:00"
+    },
+    {
+      "start": 300.6000061035156,
+      "end": 306.55999755859375,
+      "text": "expecting a one DTE position to reach profit target this quickly. Like the",
+      "speaker": "Speaker 1",
+      "minute_mark": "05:00"
+    },
+    {
+      "start": 306.55999755859375,
+      "end": 313.1199951171875,
+      "text": "time in the trade is 48 minutes. And on the other one, it was like a couple",
+      "speaker": "Speaker 1",
+      "minute_mark": "05:00"
+    },
+    {
+      "start": 313.1199951171875,
+      "end": 320.1199951171875,
+      "text": "hours, I think, but still same day. Also, it's really important I chose, even",
+      "speaker": "Speaker 1",
+      "minute_mark": "05:00"
+    },
+    {
+      "start": 320.1199951171875,
+      "end": 324.0799865722656,
+      "text": "though I want to attack the 15, 30 and 60 minute opening range breakouts,",
+      "speaker": "Speaker 1",
+      "minute_mark": "05:00"
+    },
+    {
+      "start": 324.6000061035156,
+      "end": 329.8800048828125,
+      "text": "there's only so many out of the money strikes to choose from. Since this bot",
+      "speaker": "Speaker 1",
+      "minute_mark": "05:00"
+    },
+    {
+      "start": 329.8800048828125,
+      "end": 336.239990234375,
+      "text": "is a one DTE position taker, it will never stomp on the strikes of all the",
+      "speaker": "Speaker 1",
+      "minute_mark": "05:00"
+    },
+    {
+      "start": 336.239990234375,
+      "end": 342.0,
+      "text": "other trades I got going on, including bots and including my own manual zero",
+      "speaker": "Speaker 1",
+      "minute_mark": "05:00"
+    },
+    {
+      "start": 342.0,
+      "end": 346.67999267578125,
+      "text": "DTE trades that I take. So that's really nice, because I've been trying to make",
+      "speaker": "Speaker 1",
+      "minute_mark": "05:00"
+    },
+    {
+      "start": 346.67999267578125,
+      "end": 353.0799865722656,
+      "text": "sure in my head that I don't have bots that stomp on the strikes of the manual",
+      "speaker": "Speaker 1",
+      "minute_mark": "05:00"
+    },
+    {
+      "start": 353.0799865722656,
+      "end": 360.20001220703125,
+      "text": "positions that I am day trading. Because option alpha cannot see the manual",
+      "speaker": "Speaker 1",
+      "minute_mark": "05:00"
+    },
+    {
+      "start": 360.20001220703125,
+      "end": 363.8399963378906,
+      "text": "strikes that I'm trading. Just a reminder, I will have more to update",
+      "speaker": "Speaker 1",
+      "minute_mark": "06:00"
+    },
+    {
+      "start": 363.8399963378906,
+      "end": 369.2799987792969,
+      "text": "obviously, in the next video. Also, this template and backtesting is not mine. I",
+      "speaker": "Speaker 1",
+      "minute_mark": "06:00"
+    },
+    {
+      "start": 369.2799987792969,
+      "end": 373.4800109863281,
+      "text": "cloned it from another user, I let it run for a really long time, like months",
+      "speaker": "Speaker 1",
+      "minute_mark": "06:00"
+    },
+    {
+      "start": 373.4800109863281,
+      "end": 377.67999267578125,
+      "text": "and months before I turned this live. Because this is another thing, I think",
+      "speaker": "Speaker 1",
+      "minute_mark": "06:00"
+    },
+    {
+      "start": 377.67999267578125,
+      "end": 383.05999755859375,
+      "text": "some of the days it didn't run, because I only have $3,000 allocated to this",
+      "speaker": "Speaker 1",
+      "minute_mark": "06:00"
+    },
+    {
+      "start": 383.05999755859375,
+      "end": 388.94000244140625,
+      "text": "bot. And some days I think it wanted to take wider spreads. So that is that. I",
+      "speaker": "Speaker 1",
+      "minute_mark": "06:00"
+    },
+    {
+      "start": 388.94000244140625,
+      "end": 393.739990234375,
+      "text": "will link also this template below in the caption. All right, last but",
+      "speaker": "Speaker 1",
+      "minute_mark": "06:00"
+    },
+    {
+      "start": 393.739990234375,
+      "end": 398.17999267578125,
+      "text": "certainly not least, is my favorite opening range breakout timeframe, the",
+      "speaker": "Speaker 1",
+      "minute_mark": "06:00"
+    },
+    {
+      "start": 398.17999267578125,
+      "end": 405.1000061035156,
+      "text": "15 minute opening range breakout. The last time that I updated you guys on",
+      "speaker": "Speaker 1",
+      "minute_mark": "06:00"
+    },
+    {
+      "start": 405.1199951171875,
+      "end": 409.9800109863281,
+      "text": "this, in my last video, is what I'm trying to say. I think I only had like",
+      "speaker": "Speaker 1",
+      "minute_mark": "06:00"
+    },
+    {
+      "start": 409.9800109863281,
+      "end": 417.3800048828125,
+      "text": "two or three positions closed. Okay, so here's how it's run since then, win,",
+      "speaker": "Speaker 1",
+      "minute_mark": "06:00"
+    },
+    {
+      "start": 417.3800048828125,
+      "end": 423.94000244140625,
+      "text": "win, win, and win. You guys, this loss here was a mistake on my part. I was",
+      "speaker": "Speaker 1",
+      "minute_mark": "06:00"
+    },
+    {
+      "start": 423.94000244140625,
+      "end": 428.6600036621094,
+      "text": "actually filming a YouTube video when I made the mistake. And then it lost on",
+      "speaker": "Speaker 1",
+      "minute_mark": "07:00"
+    },
+    {
+      "start": 428.6600036621094,
+      "end": 435.4599914550781,
+      "text": "this day. And then what is the theory called? Where you're running a strategy",
+      "speaker": "Speaker 1",
+      "minute_mark": "07:00"
+    },
+    {
+      "start": 435.4599914550781,
+      "end": 441.82000732421875,
+      "text": "in very small size for a long time. And then on the day that you decide to",
+      "speaker": "Speaker 1",
+      "minute_mark": "07:00"
+    },
+    {
+      "start": 441.8599853515625,
+      "end": 446.6600036621094,
+      "text": "scale up, it crashes and burns. What is that theory called? I don't know. But",
+      "speaker": "Speaker 1",
+      "minute_mark": "07:00"
+    },
+    {
+      "start": 446.82000732421875,
+      "end": 452.8599853515625,
+      "text": "somebody needs a name for it. Okay, so on this day, Friday, I decided I'm going to",
+      "speaker": "Speaker 1",
+      "minute_mark": "07:00"
+    },
+    {
+      "start": 452.8599853515625,
+      "end": 457.8599853515625,
+      "text": "increase my contract size to two. But I accidentally also changed the",
+      "speaker": "Speaker 1",
+      "minute_mark": "07:00"
+    },
+    {
+      "start": 457.8599853515625,
+      "end": 465.8999938964844,
+      "text": "safeguards of the bot incorrectly. Okay, so it ended up running twice, like one",
+      "speaker": "Speaker 1",
+      "minute_mark": "07:00"
+    },
+    {
+      "start": 465.8999938964844,
+      "end": 471.6600036621094,
+      "text": "position, one. Anyways, I don't know how to explain what I did wrong. It just",
+      "speaker": "Speaker 1",
+      "minute_mark": "07:00"
+    },
+    {
+      "start": 471.6600036621094,
+      "end": 478.4200134277344,
+      "text": "went wrong. Okay. So Saturday passes, Sunday passes, I say, let me fix what I",
+      "speaker": "Speaker 1",
+      "minute_mark": "07:00"
+    },
+    {
+      "start": 478.4200134277344,
+      "end": 483.4599914550781,
+      "text": "did wrong on Friday. I didn't fix it. Okay, I made it worse. I don't know how",
+      "speaker": "Speaker 1",
+      "minute_mark": "07:00"
+    },
+    {
+      "start": 483.4599914550781,
+      "end": 487.3399963378906,
+      "text": "to explain what I did wrong this day. But I'm telling you that the trade did not",
+      "speaker": "Speaker 1",
+      "minute_mark": "08:00"
+    },
+    {
+      "start": 487.3399963378906,
+      "end": 492.5,
+      "text": "lose this way. And I know that because I have shared the template privately with a",
+      "speaker": "Speaker 1",
+      "minute_mark": "08:00"
+    },
+    {
+      "start": 492.5,
+      "end": 495.9800109863281,
+      "text": "couple of other people and the people that ran it live on this day, it didn't",
+      "speaker": "Speaker 1",
+      "minute_mark": "08:00"
+    },
+    {
+      "start": 495.9800109863281,
+      "end": 503.1400146484375,
+      "text": "lose. So what can I say, three of the losses on or no two of the losses on here",
+      "speaker": "Speaker 1",
+      "minute_mark": "08:00"
+    },
+    {
+      "start": 503.17999267578125,
+      "end": 509.739990234375,
+      "text": "were my fault. Here's my caution to new automation users, the bot is going to do",
+      "speaker": "Speaker 1",
+      "minute_mark": "08:00"
+    },
+    {
+      "start": 509.7799987792969,
+      "end": 516.5,
+      "text": "exactly what you tell it to do, not what you meant for it to do. Okay, so",
+      "speaker": "Speaker 1",
+      "minute_mark": "08:00"
+    },
+    {
+      "start": 516.5,
+      "end": 520.1400146484375,
+      "text": "thankfully, I mean, that's not a mistake that's going to hurt me. But the other",
+      "speaker": "Speaker 1",
+      "minute_mark": "08:00"
+    },
+    {
+      "start": 520.1400146484375,
+      "end": 525.5800170898438,
+      "text": "thing about automations is that it's a shortcut to highlighting your mistakes.",
+      "speaker": "Speaker 1",
+      "minute_mark": "08:00"
+    },
+    {
+      "start": 525.7000122070312,
+      "end": 529.739990234375,
+      "text": "So some things I think, duh, of course, this makes sense. This is where I",
+      "speaker": "Speaker 1",
+      "minute_mark": "08:00"
+    },
+    {
+      "start": 529.739990234375,
+      "end": 535.219970703125,
+      "text": "increase the quantity and profit target. And, you know, it doesn't work that way.",
+      "speaker": "Speaker 1",
+      "minute_mark": "08:00"
+    },
+    {
+      "start": 535.5399780273438,
+      "end": 542.0999755859375,
+      "text": "It's fine. I can't wait to update you guys on this template. Again, I haven't",
+      "speaker": "Speaker 1",
+      "minute_mark": "08:00"
+    },
+    {
+      "start": 542.0999755859375,
+      "end": 547.02001953125,
+      "text": "shared this live yet, because I'm just, obviously, I'm still making mistakes. So",
+      "speaker": "Speaker 1",
+      "minute_mark": "09:00"
+    },
+    {
+      "start": 548.1400146484375,
+      "end": 554.8599853515625,
+      "text": "when I was up almost $1,000 on this bot, which, by the way, the best thing about",
+      "speaker": "Speaker 1",
+      "minute_mark": "09:00"
+    },
+    {
+      "start": 554.8599853515625,
+      "end": 560.3400268554688,
+      "text": "this bot is the time in the trade. It is probably I don't know what the average is,",
+      "speaker": "Speaker 1",
+      "minute_mark": "09:00"
+    },
+    {
+      "start": 560.3400268554688,
+      "end": 566.4199829101562,
+      "text": "but probably less than one minute, less than one minute. So let me show you. There",
+      "speaker": "Speaker 1",
+      "minute_mark": "09:00"
+    },
+    {
+      "start": 566.4199829101562,
+      "end": 572.1799926757812,
+      "text": "hasn't been but one day where all three of these bots were triggered. So I'm going to",
+      "speaker": "Speaker 1",
+      "minute_mark": "09:00"
+    },
+    {
+      "start": 572.1799926757812,
+      "end": 576.5800170898438,
+      "text": "just go over that day really quickly. So you can see and visualize on a chart, what",
+      "speaker": "Speaker 1",
+      "minute_mark": "09:00"
+    },
+    {
+      "start": 576.5800170898438,
+      "end": 583.3400268554688,
+      "text": "maybe all three of these opening range bots look like, or what, what kind of price",
+      "speaker": "Speaker 1",
+      "minute_mark": "09:00"
+    },
+    {
+      "start": 583.3400268554688,
+      "end": 587.7000122070312,
+      "text": "action needs to happen in order for all three of these to get triggered. Not that I",
+      "speaker": "Speaker 1",
+      "minute_mark": "09:00"
+    },
+    {
+      "start": 587.7000122070312,
+      "end": 592.6599731445312,
+      "text": "care whether or not all three of the bots get triggered on any given day. But you",
+      "speaker": "Speaker 1",
+      "minute_mark": "09:00"
+    },
+    {
+      "start": 592.6599731445312,
+      "end": 596.0599975585938,
+      "text": "know, these bots don't all run every single day. So it just so happens I have",
+      "speaker": "Speaker 1",
+      "minute_mark": "09:00"
+    },
+    {
+      "start": 596.0599975585938,
+      "end": 603.5800170898438,
+      "text": "one day to share. This is a 15 minute chart for the ticker symbol SPX. Here's",
+      "speaker": "Speaker 1",
+      "minute_mark": "09:00"
+    },
+    {
+      "start": 603.5800170898438,
+      "end": 608.0599975585938,
+      "text": "the high and the low of the first 15 minute candle. So when this candle breaks",
+      "speaker": "Speaker 1",
+      "minute_mark": "10:00"
+    },
+    {
+      "start": 608.0599975585938,
+      "end": 613.5800170898438,
+      "text": "the range to the upside, my bot enters a long call, it wins in two minutes. This is",
+      "speaker": "Speaker 1",
+      "minute_mark": "10:00"
+    },
+    {
+      "start": 613.5800170898438,
+      "end": 618.02001953125,
+      "text": "also the high and the low of the 30 minute opening range. So this candle also",
+      "speaker": "Speaker 1",
+      "minute_mark": "10:00"
+    },
+    {
+      "start": 618.02001953125,
+      "end": 623.260009765625,
+      "text": "triggers the 30 minute opening range bot to enter a put credit spread. That trade",
+      "speaker": "Speaker 1",
+      "minute_mark": "10:00"
+    },
+    {
+      "start": 623.260009765625,
+      "end": 628.780029296875,
+      "text": "wins in about 40 minutes on this candle here. The third and final position that",
+      "speaker": "Speaker 1",
+      "minute_mark": "10:00"
+    },
+    {
+      "start": 628.780029296875,
+      "end": 632.4600219726562,
+      "text": "my bot enters is the 60 minute opening range breakout. Here's the high and the",
+      "speaker": "Speaker 1",
+      "minute_mark": "10:00"
+    },
+    {
+      "start": 632.4600219726562,
+      "end": 637.97998046875,
+      "text": "low of the 60 minutes. When this candle triggers my bot, it enters a 10 wide put",
+      "speaker": "Speaker 1",
+      "minute_mark": "10:00"
+    },
+    {
+      "start": 637.97998046875,
+      "end": 640.0599975585938,
+      "text": "credit spread, it wins in 10 minutes.",
+      "speaker": "Speaker 1",
+      "minute_mark": "10:00"
+    }
+  ],
+  "speakers": [
+    "Speaker 1"
+  ],
+  "full_text": "test",
+  "raw_text": "Hey everyone, welcome back to Arianne's automation journey. Good news, I have since graduated from automation kindergarten to I'm definitely in at least third grade. I've got a bunch of bots running, I'm making my lunch money, and things are happening. We know there's no free lunch in this school so in this video I will go over the three specific opening range breakout bots that I talked about in my last YouTube video and show you how they've been performing, show you where you can get them, and hopefully learn a thing or two. All right let's get into it. Hey everyone, welcome to my 60-minute, 10-wide opening range breakout vlog. You've seen this before if you've watched any of my previous videos. Let me go over the most recent result. Let me start from the beginning just really quickly. I've been trading this since July of 2025. Holy smokes, where is the time gone? Has it been that long? Oh my gosh. Okay, I have traded it now a total of 87 times with an 83% win rate. Okay, not bad. Less than an hour time in trade. There's the average margin requirement and an incredible ROI. I know that... wait, did I say this? Okay, so I, since my last YouTube video, I really tried not to add any manual occurrences because previously I was taking additional positions but I'm like, let me just see how the bot works without me taking any manual positions because that is the point of the bot, right? And so that's what this last big chunk is. In November, not that many occurrences triggered. It lost twice. In December, more occurrences, more losses. It lost three times. And in January, it is picking back up. Several more occurrences, one loss. You know, coincidentally, I manually trade another strategy that is also triggered at exactly 60 minutes into the market open. And that one had like a terrible November and December, which is odd because I've been trading that strategy for years. And so I'm just gonna attribute this to the one hour having some troubles on zero DTE the end of last year. But it seems to be coming out of that, you know, valley where on the P&L curve it's going up and then it's going like this. What can I say about this? I will link this bot template for you, of course, in the caption. I shared it some time ago. This strategy is a wonderful strategy. I love trading it manually. I think just having had the bot run now for three months with zero manual interception, I just feel like this strategy is so much better traded manually. Let me give you a good example. This is what I mean. OK, my friends, look at this day. On this day, the bot entered its position, by the way, the specific standard time, obviously, at 731. A mere two minutes later, OK, I entered my position for 30 cents more than the bot entered its position. Now, 30 cents, not a big deal, but that's 75% of my profit target. OK, so then I was out of the trade in a mere three minutes versus the bot's 32 minutes. So need I say more? I mean, that's really how I feel about this particular strategy. I'm just going to continue to let the bot run unless something, you know, catastrophic happens where I have a really bad red month. I don't care if the win rate continues at 83%. So long as it is a green at the end of the month, we're going to keep trucking and I will, of course, continue to update you on this. All right, let's move on to the 30 minute opening range bot. Don't come for me. I'm sorry, but I only have two closed positions to share. I don't really recall why. I think I have an irrational fear of day trading zero DTE for the first week of January. And so I don't think I even slid the old automation button on until after that time. And then we had like a bit of a sell off and whatever. There was lots of settings that this bot has that was preventing it from taking a position. So I hope to have more than this to share with you. I absolutely love this bot so far, just because I really was not expecting a one DTE position to reach profit target this quickly. Like the time in the trade is 48 minutes. And on the other one, it was like a couple hours, I think, but still same day. Also, it's really important I chose, even though I want to attack the 15, 30 and 60 minute opening range breakouts, there's only so many out of the money strikes to choose from. Since this bot is a one DTE position taker, it will never stomp on the strikes of all the other trades I got going on, including bots and including my own manual zero DTE trades that I take. So that's really nice, because I've been trying to make sure in my head that I don't have bots that stomp on the strikes of the manual positions that I am day trading. Because option alpha cannot see the manual strikes that I'm trading. Just a reminder, I will have more to update obviously, in the next video. Also, this template and backtesting is not mine. I cloned it from another user, I let it run for a really long time, like months and months before I turned this live. Because this is another thing, I think some of the days it didn't run, because I only have $3,000 allocated to this bot. And some days I think it wanted to take wider spreads. So that is that. I will link also this template below in the caption. All right, last but certainly not least, is my favorite opening range breakout timeframe, the 15 minute opening range breakout. The last time that I updated you guys on this, in my last video, is what I'm trying to say. I think I only had like two or three positions closed. Okay, so here's how it's run since then, win, win, win, and win. You guys, this loss here was a mistake on my part. I was actually filming a YouTube video when I made the mistake. And then it lost on this day. And then what is the theory called? Where you're running a strategy in very small size for a long time. And then on the day that you decide to scale up, it crashes and burns. What is that theory called? I don't know. But somebody needs a name for it. Okay, so on this day, Friday, I decided I'm going to increase my contract size to two. But I accidentally also changed the safeguards of the bot incorrectly. Okay, so it ended up running twice, like one position, one. Anyways, I don't know how to explain what I did wrong. It just went wrong. Okay. So Saturday passes, Sunday passes, I say, let me fix what I did wrong on Friday. I didn't fix it. Okay, I made it worse. I don't know how to explain what I did wrong this day. But I'm telling you that the trade did not lose this way. And I know that because I have shared the template privately with a couple of other people and the people that ran it live on this day, it didn't lose. So what can I say, three of the losses on or no two of the losses on here were my fault. Here's my caution to new automation users, the bot is going to do exactly what you tell it to do, not what you meant for it to do. Okay, so thankfully, I mean, that's not a mistake that's going to hurt me. But the other thing about automations is that it's a shortcut to highlighting your mistakes. So some things I think, duh, of course, this makes sense. This is where I increase the quantity and profit target. And, you know, it doesn't work that way. It's fine. I can't wait to update you guys on this template. Again, I haven't shared this live yet, because I'm just, obviously, I'm still making mistakes. So when I was up almost $1,000 on this bot, which, by the way, the best thing about this bot is the time in the trade. It is probably I don't know what the average is, but probably less than one minute, less than one minute. So let me show you. There hasn't been but one day where all three of these bots were triggered. So I'm going to just go over that day really quickly. So you can see and visualize on a chart, what maybe all three of these opening range bots look like, or what, what kind of price action needs to happen in order for all three of these to get triggered. Not that I care whether or not all three of the bots get triggered on any given day. But you know, these bots don't all run every single day. So it just so happens I have one day to share. This is a 15 minute chart for the ticker symbol SPX. Here's the high and the low of the first 15 minute candle. So when this candle breaks the range to the upside, my bot enters a long call, it wins in two minutes. This is also the high and the low of the 30 minute opening range. So this candle also triggers the 30 minute opening range bot to enter a put credit spread. That trade wins in about 40 minutes on this candle here. The third and final position that my bot enters is the 60 minute opening range breakout. Here's the high and the low of the 60 minutes. When this candle triggers my bot, it enters a 10 wide put credit spread, it wins in 10 minutes.",
+  "text": "Hey everyone, welcome back to Arianne's automation journey. Good news, I have since graduated from automation kindergarten to I'm definitely in at least third grade. I've got a bunch of bots running, I'm making my lunch money, and things are happening. We know there's no free lunch in this school so in this video I will go over the three specific opening range breakout bots that I talked about in my last YouTube video and show you how they've been performing, show you where you can get them, and hopefully learn a thing or two. All right let's get into it. Hey everyone, welcome to my 60-minute, 10-wide opening range breakout vlog. You've seen this before if you've watched any of my previous videos. Let me go over the most recent result. Let me start from the beginning just really quickly. I've been trading this since July of 2025. Holy smokes, where is the time gone? Has it been that long? Oh my gosh. Okay, I have traded it now a total of 87 times with an 83% win rate. Okay, not bad. Less than an hour time in trade. There's the average margin requirement and an incredible ROI. I know that... wait, did I say this? Okay, so I, since my last YouTube video, I really tried not to add any manual occurrences because previously I was taking additional positions but I'm like, let me just see how the bot works without me taking any manual positions because that is the point of the bot, right? And so that's what this last big chunk is. In November, not that many occurrences triggered. It lost twice. In December, more occurrences, more losses. It lost three times. And in January, it is picking back up. Several more occurrences, one loss. You know, coincidentally, I manually trade another strategy that is also triggered at exactly 60 minutes into the market open. And that one had like a terrible November and December, which is odd because I've been trading that strategy for years. And so I'm just gonna attribute this to the one hour having some troubles on zero DTE the end of last year. But it seems to be coming out of that, you know, valley where on the P&L curve it's going up and then it's going like this. What can I say about this? I will link this bot template for you, of course, in the caption. I shared it some time ago. This strategy is a wonderful strategy. I love trading it manually. I think just having had the bot run now for three months with zero manual interception, I just feel like this strategy is so much better traded manually. Let me give you a good example. This is what I mean. OK, my friends, look at this day. On this day, the bot entered its position, by the way, the specific standard time, obviously, at 731. A mere two minutes later, OK, I entered my position for 30 cents more than the bot entered its position. Now, 30 cents, not a big deal, but that's 75% of my profit target. OK, so then I was out of the trade in a mere three minutes versus the bot's 32 minutes. So need I say more? I mean, that's really how I feel about this particular strategy. I'm just going to continue to let the bot run unless something, you know, catastrophic happens where I have a really bad red month. I don't care if the win rate continues at 83%. So long as it is a green at the end of the month, we're going to keep trucking and I will, of course, continue to update you on this. All right, let's move on to the 30 minute opening range bot. Don't come for me. I'm sorry, but I only have two closed positions to share. I don't really recall why. I think I have an irrational fear of day trading zero DTE for the first week of January. And so I don't think I even slid the old automation button on until after that time. And then we had like a bit of a sell off and whatever. There was lots of settings that this bot has that was preventing it from taking a position. So I hope to have more than this to share with you. I absolutely love this bot so far, just because I really was not expecting a one DTE position to reach profit target this quickly. Like the time in the trade is 48 minutes. And on the other one, it was like a couple hours, I think, but still same day. Also, it's really important I chose, even though I want to attack the 15, 30 and 60 minute opening range breakouts, there's only so many out of the money strikes to choose from. Since this bot is a one DTE position taker, it will never stomp on the strikes of all the other trades I got going on, including bots and including my own manual zero DTE trades that I take. So that's really nice, because I've been trying to make sure in my head that I don't have bots that stomp on the strikes of the manual positions that I am day trading. Because option alpha cannot see the manual strikes that I'm trading. Just a reminder, I will have more to update obviously, in the next video. Also, this template and backtesting is not mine. I cloned it from another user, I let it run for a really long time, like months and months before I turned this live. Because this is another thing, I think some of the days it didn't run, because I only have $3,000 allocated to this bot. And some days I think it wanted to take wider spreads. So that is that. I will link also this template below in the caption. All right, last but certainly not least, is my favorite opening range breakout timeframe, the 15 minute opening range breakout. The last time that I updated you guys on this, in my last video, is what I'm trying to say. I think I only had like two or three positions closed. Okay, so here's how it's run since then, win, win, win, and win. You guys, this loss here was a mistake on my part. I was actually filming a YouTube video when I made the mistake. And then it lost on this day. And then what is the theory called? Where you're running a strategy in very small size for a long time. And then on the day that you decide to scale up, it crashes and burns. What is that theory called? I don't know. But somebody needs a name for it. Okay, so on this day, Friday, I decided I'm going to increase my contract size to two. But I accidentally also changed the safeguards of the bot incorrectly. Okay, so it ended up running twice, like one position, one. Anyways, I don't know how to explain what I did wrong. It just went wrong. Okay. So Saturday passes, Sunday passes, I say, let me fix what I did wrong on Friday. I didn't fix it. Okay, I made it worse. I don't know how to explain what I did wrong this day. But I'm telling you that the trade did not lose this way. And I know that because I have shared the template privately with a couple of other people and the people that ran it live on this day, it didn't lose. So what can I say, three of the losses on or no two of the losses on here were my fault. Here's my caution to new automation users, the bot is going to do exactly what you tell it to do, not what you meant for it to do. Okay, so thankfully, I mean, that's not a mistake that's going to hurt me. But the other thing about automations is that it's a shortcut to highlighting your mistakes. So some things I think, duh, of course, this makes sense. This is where I increase the quantity and profit target. And, you know, it doesn't work that way. It's fine. I can't wait to update you guys on this template. Again, I haven't shared this live yet, because I'm just, obviously, I'm still making mistakes. So when I was up almost $1,000 on this bot, which, by the way, the best thing about this bot is the time in the trade. It is probably I don't know what the average is, but probably less than one minute, less than one minute. So let me show you. There hasn't been but one day where all three of these bots were triggered. So I'm going to just go over that day really quickly. So you can see and visualize on a chart, what maybe all three of these opening range bots look like, or what, what kind of price action needs to happen in order for all three of these to get triggered. Not that I care whether or not all three of the bots get triggered on any given day. But you know, these bots don't all run every single day. So it just so happens I have one day to share. This is a 15 minute chart for the ticker symbol SPX. Here's the high and the low of the first 15 minute candle. So when this candle breaks the range to the upside, my bot enters a long call, it wins in two minutes. This is also the high and the low of the 30 minute opening range. So this candle also triggers the 30 minute opening range bot to enter a put credit spread. That trade wins in about 40 minutes on this candle here. The third and final position that my bot enters is the 60 minute opening range breakout. Here's the high and the low of the 60 minutes. When this candle triggers my bot, it enters a 10 wide put credit spread, it wins in 10 minutes."
+}

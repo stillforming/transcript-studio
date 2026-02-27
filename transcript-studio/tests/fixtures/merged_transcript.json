@@ -1,0 +1,1782 @@
+[
+  {
+    "type": "timestamp",
+    "value": "00:00"
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "Have you ever wondered how Wall Street professionals consistently",
+    "start": 0.0,
+    "end": 3.119999885559082
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "outperform year after year while retail traders do nothing but spin their wheels",
+    "start": 3.119999885559082,
+    "end": 7.679999828338623
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "never gaining any traction? And while retail traders are scouring the internet to find a",
+    "start": 7.679999828338623,
+    "end": 12.399999618530273
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "holy grail trading strategy, professional traders are laughing all the way to the bank",
+    "start": 12.399999618530273,
+    "end": 17.68000030517578
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "because they understand they don't need a holy grail trading strategy to win.",
+    "start": 17.68000030517578,
+    "end": 21.360000610351562
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "Well in this video, I'm going to show you exactly how they're trading and how you can",
+    "start": 21.360000610351562,
+    "end": 24.8799991607666
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "trade more like the pros and less like all the other retail traders.",
+    "start": 24.8799991607666,
+    "end": 28.959999084472656
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "This video is going to completely shift the way you think about trading and how",
+    "start": 28.959999084472656,
+    "end": 32.47999954223633
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "you approach the markets. Because it's not that retail traders can't win,",
+    "start": 32.47999954223633,
+    "end": 36.47999954223633
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "they're just simply playing the wrong game. And you may be saying, well Adam,",
+    "start": 36.47999954223633,
+    "end": 40.63999938964844
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "these trading firms outperform because they have better technology, faster execution,",
+    "start": 40.63999938964844,
+    "end": 45.52000045776367
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "more data. And while that used to be true, it's just simply not the case anymore. The truth is,",
+    "start": 46.15999984741211,
+    "end": 51.84000015258789
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "the game has completely changed. Today, retail traders have access to everything the pros do.",
+    "start": 51.84000015258789,
+    "end": 58.560001373291016
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "We have access to the same data feeds. We have the same backtesting capabilities.",
+    "start": 58.560001373291016,
+    "end": 63.20000076293945
+  },
+  {
+    "type": "timestamp",
+    "value": "01:00"
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "We even have automated execution with smart order routing. Long story short,",
+    "start": 63.20000076293945,
+    "end": 67.36000061035156
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "retail traders have everything they need to trade just like the top trading firms,",
+    "start": 67.36000061035156,
+    "end": 71.91999816894531
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "except one thing. They just don't know how to put it together. It's purely just a knowledge gap.",
+    "start": 71.91999816894531,
+    "end": 77.68000030517578
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "And in this video, I'm going to close that knowledge gap for you because there are three",
+    "start": 77.68000030517578,
+    "end": 81.36000061035156
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "things top trading firms focus on. And once you understand these, you'll never look at",
+    "start": 81.36000061035156,
+    "end": 86.0
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "trading the same way again. Let's dive into it. So what are these three things top firms focus on?",
+    "start": 86.0,
+    "end": 91.5999984741211
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "Well, the first one is the foundation of everything. And it's where most retail",
+    "start": 91.5999984741211,
+    "end": 95.27999877929688
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "traders go wrong right out of the gate. Because while amateur traders are chasing returns,",
+    "start": 95.27999877929688,
+    "end": 99.5999984741211
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "basically chasing their tail, professional traders have a completely different goal.",
+    "start": 99.5999984741211,
+    "end": 104.80000305175781
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "So that brings me to point number one, to trade more like top trading firms,",
+    "start": 104.80000305175781,
+    "end": 108.72000122070312
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "you must first understand the real goal of trading. You got to know what you're actually",
+    "start": 108.72000122070312,
+    "end": 114.0
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "trying to achieve. And no, it is not just make as much money as possible. I mean, think about it.",
+    "start": 114.0,
+    "end": 119.68000030517578
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "What is the goal of trading? Make money, right? Make as much money as possible. Okay, sure. But",
+    "start": 119.68000030517578,
+    "end": 125.76000213623047
+  },
+  {
+    "type": "timestamp",
+    "value": "02:00"
+  },
+  {
+    "type": "visual",
+    "timestamp_seconds": 125,
+    "timestamp_label": "02:05",
+    "visual_type": "Graphic",
+    "description": "A simple visual comparison of two “investments” (green vs black line) that start and end at the same point, used to force the viewer to admit that path/volatility matters even when total return is identical.",
+    "image_path": "tmp/frames/RHxd5EVmpuU/frame_125s.png"
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "what if I told you that's actually not the goal at all? That's simply just a side effect of chasing",
+    "start": 125.76000213623047,
+    "end": 130.55999755859375
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "a different goal entirely. Let me show you what I mean. I want you to look at these two investments",
+    "start": 130.55999755859375,
+    "end": 134.8800048828125
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "and tell me which one is better, green or black. Now, this one is pretty easy. I expect everyone",
+    "start": 134.8800048828125,
+    "end": 140.24000549316406
+  },
+  {
+    "type": "visual",
+    "timestamp_seconds": 135,
+    "timestamp_label": "02:15",
+    "visual_type": "Graphic",
+    "description": "Continuation of the same two-line investment graphic, now used to land the conclusion: green is better because it’s the same return with more consistency; black implies stressful swings.",
+    "image_path": "tmp/frames/RHxd5EVmpuU/frame_135s.png"
+  },
+  {
+    "type": "visual",
+    "timestamp_seconds": 140,
+    "timestamp_label": "02:20",
+    "visual_type": "Graphic",
+    "description": "Same visual setup, but the narration pivots: it’s not just comfort—there’s a mathematical reason the smoother curve is superior, setting up the next example/question.",
+    "image_path": "tmp/frames/RHxd5EVmpuU/frame_140s.png"
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "watching this video to answer this correctly. Both of these investments start and end in the",
+    "start": 140.24000549316406,
+    "end": 145.75999450683594
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "exact same place. So the return is identical, but clearly one of them is better. And if you answer",
+    "start": 145.75999450683594,
+    "end": 151.1999969482422
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "green, that's correct. I think we can all intuitively make that conclusion, right? It's",
+    "start": 151.1999969482422,
+    "end": 156.0800018310547
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "the exact same return, but with much more consistency. In the end, the investment represented",
+    "start": 156.0800018310547,
+    "end": 161.67999267578125
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "by the black line achieved the same return, but probably at the cost of many sleepless nights,",
+    "start": 161.67999267578125,
+    "end": 166.8800048828125
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "maybe a few gray hairs. But here's the thing. It's not just about sleeping better at night.",
+    "start": 167.36000061035156,
+    "end": 173.44000244140625
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "What if I told you there's actually a mathematical reason why the green line is better? And I'll",
+    "start": 173.44000244140625,
+    "end": 178.39999389648438
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "demonstrate this with a second question. Now, which one is better in this example,",
+    "start": 178.39999389648438,
+    "end": 182.72000122070312
+  },
+  {
+    "type": "timestamp",
+    "value": "03:00"
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "blue or orange? I'm like an optometrist. Which one is more clear? No, the orange line achieved a",
+    "start": 182.72000122070312,
+    "end": 189.67999267578125
+  },
+  {
+    "type": "visual",
+    "timestamp_seconds": 185,
+    "timestamp_label": "03:05",
+    "visual_type": "Graphic",
+    "description": "A second comparison graphic (blue vs orange line) where one has higher return but higher volatility; used as a ‘test’ to separate amateur instincts from professional decision-making.",
+    "image_path": "tmp/frames/RHxd5EVmpuU/frame_185s.png"
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "lower return, but also with very little volatility. And the blue line achieved a bigger return,",
+    "start": 189.67999267578125,
+    "end": 195.75999450683594
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "but obviously with more volatility. So which one would you choose? Now, most amateur traders",
+    "start": 195.75999450683594,
+    "end": 201.0399932861328
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "watching this video right now are screaming at the screen saying blue, because duh, more money.",
+    "start": 201.0399932861328,
+    "end": 207.0399932861328
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "But here's where the pros think differently. Most elite traders, even the aggressive ones who are",
+    "start": 207.0399932861328,
+    "end": 212.24000549316406
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "shooting for the biggest return possible, would choose the orange line, hands down. And I'll tell",
+    "start": 212.24000549316406,
+    "end": 218.32000732421875
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "you the reason. The reason is because in trading, you can always, in theory, add size, right? If",
+    "start": 218.32000732421875,
+    "end": 225.27999877929688
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "you can achieve the orange line, you can add size to achieve the green line or add even more size to",
+    "start": 225.27999877929688,
+    "end": 231.1199951171875
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "achieve the red line. Now I say in theory, because this assumes that returns don't diminish as you",
+    "start": 231.1199951171875,
+    "end": 237.0399932861328
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "add size due to market impact. But as long as you're sticking to pretty liquid markets and not",
+    "start": 237.0399932861328,
+    "end": 242.9600067138672
+  },
+  {
+    "type": "timestamp",
+    "value": "04:00"
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "trading hundreds of millions of dollars, this is probably the least of your worries. The point is",
+    "start": 242.9600067138672,
+    "end": 247.27999877929688
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "to trade more like the pros, you have to stop chasing returns and instead engineer the equity",
+    "start": 247.27999877929688,
+    "end": 254.32000732421875
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "curve. Amateur traders chase the biggest return, pros engineer the shape of the return and then",
+    "start": 254.32000732421875,
+    "end": 261.0400085449219
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "scale it. Now, hedge funds understand this. If you walk into a hedge fund and pitch them your",
+    "start": 261.0400085449219,
+    "end": 265.5199890136719
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "strategy, the last thing they're going to ask is what's your return. They're going to ask about",
+    "start": 265.5199890136719,
+    "end": 269.8399963378906
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "things like your risk management. They're going to ask for a few metrics, like your Sharpe ratio,",
+    "start": 269.8399963378906,
+    "end": 275.760009765625
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "your Sortino ratio, things that measure portfolio volatility. And you may be sitting there like,",
+    "start": 275.760009765625,
+    "end": 281.1199951171875
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "why are they not asking about my returns? Because they know those metrics are where they need to be.",
+    "start": 281.67999267578125,
+    "end": 286.4800109863281
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "They can kind of create whatever return profile they want. Now, obviously, this is some high",
+    "start": 286.4800109863281,
+    "end": 290.79998779296875
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "level stuff. So you may be thinking, well, how are we going to design a trading strategy like this?",
+    "start": 290.79998779296875,
+    "end": 295.5199890136719
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "Well, first, let me tell you how we're definitely not going to do it. We're not going to do this by",
+    "start": 295.5199890136719,
+    "end": 300.0
+  },
+  {
+    "type": "timestamp",
+    "value": "05:00"
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "trading one single trading strategy, even if it's a really good one. There just isn't a single trading",
+    "start": 300.0,
+    "end": 306.1600036621094
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "strategy that will achieve this, at least not for any significant amount of time. If a single strategy",
+    "start": 306.1600036621094,
+    "end": 312.239990234375
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "does look like this for a year or two, it usually has something really ugly under the hood. I'm",
+    "start": 312.239990234375,
+    "end": 317.6000061035156
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "talking about ticking time bomb strategies, things like Forex, Martingale, things that look really",
+    "start": 317.6000061035156,
+    "end": 323.5199890136719
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "great until they don't. Now, that's a topic for another video. But the point is no single strategy",
+    "start": 323.5199890136719,
+    "end": 329.5199890136719
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "is going to get you this consistent, scalable equity curve over the long run. No single strategy",
+    "start": 329.5199890136719,
+    "end": 335.3599853515625
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "is going to give you truly asymmetrical risk adjusted returns. There is no holy grail trading",
+    "start": 335.3599853515625,
+    "end": 341.44000244140625
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "strategy. Pros understand this, and that's why professionals prioritize portfolio construction",
+    "start": 341.44000244140625,
+    "end": 347.0400085449219
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "over individual strategies. And more specifically, they build what we call an ensemble portfolio.",
+    "start": 347.6000061035156,
+    "end": 353.67999267578125
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "This is the real holy grail, in my opinion. Let me show you how this is done in the real world.",
+    "start": 353.67999267578125,
+    "end": 358.8800048828125
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "Now, here you can see two trading systems simulated over the past three and a half years.",
+    "start": 358.8800048828125,
+    "end": 363.1199951171875
+  },
+  {
+    "type": "timestamp",
+    "value": "06:00"
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "Strategy A is the blue line and strategy B is the red line. Which one of these is better? I want",
+    "start": 363.1199951171875,
+    "end": 370.1600036621094
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "you to answer this one last question. Both of them achieved the exact same return. They have a very",
+    "start": 370.1600036621094,
+    "end": 375.2799987792969
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "similar Sharpe ratio and a very similar volatility of the returns, but clearly they are inversely",
+    "start": 375.2799987792969,
+    "end": 381.9200134277344
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "correlated, right? When one zigs, the other zags. Now, you could argue that red is better because",
+    "start": 381.9200134277344,
+    "end": 387.67999267578125
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "technically it does have a smaller max drawdown, but I'd argue it's minimal and could be due to",
+    "start": 387.67999267578125,
+    "end": 393.9200134277344
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "just the sequence of returns. And even if it is a little better, I'm going to show you what's",
+    "start": 394.4800109863281,
+    "end": 399.6000061035156
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "better than both of these. How about instead of choosing one, we just combine them and run both,",
+    "start": 399.6000061035156,
+    "end": 405.2799987792969
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "right? So instead of allocating $30,000 to one of them, what if we just cut the size in half and run",
+    "start": 406.0,
+    "end": 412.3999938964844
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "on each of them? So still a total allocation of $30,000, but split between them. And you can see",
+    "start": 413.3599853515625,
+    "end": 419.2799987792969
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "what this looks like with the purple line. Now, this is actually one of the systems we're running",
+    "start": 419.2799987792969,
+    "end": 424.0799865722656
+  },
+  {
+    "type": "timestamp",
+    "value": "07:00"
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "in our fund. Obviously we'd be insane to share exact specifics of it in a public video on YouTube.",
+    "start": 424.0799865722656,
+    "end": 430.79998779296875
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "I'm sure you can understand that, but if you do want to know exactly what the strategy is,",
+    "start": 430.79998779296875,
+    "end": 434.79998779296875
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "I'm going to tell you at the end of the video, how to access it. Now, aside from having a clearly",
+    "start": 434.79998779296875,
+    "end": 439.9200134277344
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "more stable equity curve, when you look at the chart, you can also see the other metrics here.",
+    "start": 439.9200134277344,
+    "end": 444.0799865722656
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "The Marr ratio is significantly higher. By the way, Marr ratio just simply means the,",
+    "start": 444.0799865722656,
+    "end": 450.0799865722656
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "it's the annualized return divided by the max drawdown. So the higher this number, the better",
+    "start": 450.0799865722656,
+    "end": 454.8800048828125
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "the sharp is also significantly better. And the volatility is much lower. Now, again,",
+    "start": 455.67999267578125,
+    "end": 460.7200012207031
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "the point of this video is not to confuse you with any math or anything, but the point is,",
+    "start": 460.7200012207031,
+    "end": 465.9200134277344
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "you can see that now that we have a smoother return with less volatility, now we have a",
+    "start": 465.9200134277344,
+    "end": 470.3999938964844
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "strategy we can scale. And the average capital required of each of these trades is actually",
+    "start": 470.3999938964844,
+    "end": 475.44000244140625
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "way smaller than the capital we're allocating. So what if we just add size, right? You can see",
+    "start": 475.44000244140625,
+    "end": 480.79998779296875
+  },
+  {
+    "type": "timestamp",
+    "value": "08:00"
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "what that might look like. If we add 2X size or 3X size, you can see how this can start adding up",
+    "start": 480.79998779296875,
+    "end": 487.1199951171875
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "to some nicer returns. All right, cool. Now you could run this strategy. It's a pretty good one,",
+    "start": 487.1199951171875,
+    "end": 492.8800048828125
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "but what if it stops performing? Professional traders would never have a single point of failure",
+    "start": 492.8800048828125,
+    "end": 498.3999938964844
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "in their portfolios. So we don't stop here. For wall street pros, one or two strategies isn't",
+    "start": 498.3999938964844,
+    "end": 505.3599853515625
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "enough. In fact, here's a simulation of the strategies we're currently running in our Skyview",
+    "start": 505.3599853515625,
+    "end": 509.9200134277344
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "portfolio, but how do we get here, right? Like what is this portfolio? Well, as you probably",
+    "start": 509.9200134277344,
+    "end": 515.52001953125
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "guessed, this is an ensemble portfolio made up of several trading strategies. And you can clearly",
+    "start": 515.52001953125,
+    "end": 520.8800048828125
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "see each of the individual strategies are much more volatile than the portfolio itself. But when",
+    "start": 520.8800048828125,
+    "end": 526.47998046875
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "you blend them together, we get exactly what we're looking for. But let's start from scratch. You can",
+    "start": 526.47998046875,
+    "end": 531.1199951171875
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "see on the left side, we have 10 trading strategies and we already have one of them turned on. Now,",
+    "start": 531.1199951171875,
+    "end": 535.760009765625
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "this first one is a great strategy. It's got a very robust edge. And if we were running our",
+    "start": 536.3200073242188,
+    "end": 542.0800170898438
+  },
+  {
+    "type": "timestamp",
+    "value": "09:00"
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "whole portfolio on it, you can see we'd have achieved around a 15.8% annualized return with",
+    "start": 542.0800170898438,
+    "end": 548.239990234375
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "a max drawdown of 14.4%. So at least it made money. But I don't think any of us would be",
+    "start": 548.239990234375,
+    "end": 554.47998046875
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "thrilled with that. Not exactly a hedge fund grade equity curve here. But let me show you",
+    "start": 554.47998046875,
+    "end": 559.4400024414062
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "what happens when we turn each of these trading systems on. And these aren't just 10 random trading",
+    "start": 559.4400024414062,
+    "end": 564.719970703125
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "systems, by the way, these have all been meticulously designed to complement each other",
+    "start": 564.719970703125,
+    "end": 569.1199951171875
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "and work together. And I'll show you some real trading action soon. But hang with me here. You",
+    "start": 569.1199951171875,
+    "end": 575.0399780273438
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "can see as we turn each of these trading systems on, the portfolio really starts to smooth out",
+    "start": 575.0399780273438,
+    "end": 580.0
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "and scale. Now, we're only four strategies in, but you can see the total portfolio has a higher",
+    "start": 580.6400146484375,
+    "end": 586.3200073242188
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "return and a lower drawdown than each of the four strategies have by themselves. So significantly",
+    "start": 586.3200073242188,
+    "end": 593.280029296875
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "better already. Now let's keep going. Now you can start to see how much better the portfolio looks.",
+    "start": 593.280029296875,
+    "end": 599.280029296875
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "Remember, in the earlier example, I showed you how combining those two strategies,",
+    "start": 599.280029296875,
+    "end": 603.9199829101562
+  },
+  {
+    "type": "timestamp",
+    "value": "10:00"
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "we were able to achieve a mar ratio of 3.4. Well, you can see this portfolio has a mar ratio of 13.1.",
+    "start": 603.9199829101562,
+    "end": 612.3200073242188
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "And you can see the mar ratio of each individual strategy is nowhere close to that. Guys,",
+    "start": 612.3200073242188,
+    "end": 617.3599853515625
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "think about how powerful this is. Not only have we significantly improved our portfolio,",
+    "start": 617.3599853515625,
+    "end": 622.47998046875
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "but we've also reduced our reliance on a single trading system. So if one of these trading systems",
+    "start": 622.47998046875,
+    "end": 627.760009765625
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "starts to degrade in performance, we have nine others to lean on. Now, they certainly could",
+    "start": 627.760009765625,
+    "end": 633.1199951171875
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "start to degrade in performance all at the same time. That's called clustering. But we've",
+    "start": 633.1199951171875,
+    "end": 637.2000122070312
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "significantly reduced our risk of that. Amateur traders are scouring the internet to find one",
+    "start": 637.2000122070312,
+    "end": 642.719970703125
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "good strategy. And when a strategy doesn't get them to where they want to go, they move on and",
+    "start": 642.719970703125,
+    "end": 647.8400268554688
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "search for the next Holy Grail. Pros understand that proper portfolio construction and efficient",
+    "start": 647.8400268554688,
+    "end": 653.52001953125
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "use of capital is the real Holy Grail. And I want to read you a quote from one of my favorite books,",
+    "start": 653.52001953125,
+    "end": 658.5599975585938
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "Advances in Financial Machine Learning by Dr. Marcus Lopez de Prado. He says,",
+    "start": 658.5599975585938,
+    "end": 663.760009765625
+  },
+  {
+    "type": "timestamp",
+    "value": "11:00"
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "amateurs develop individual strategies, believing there is such a thing as a magical formula for",
+    "start": 663.760009765625,
+    "end": 668.8800048828125
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "riches. In contrast, professionals develop methods to mass produce strategies. The money is not in",
+    "start": 668.8800048828125,
+    "end": 675.3599853515625
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "making a car, it is in making a car factory. And that's what the pros do. They build the factory.",
+    "start": 675.3599853515625,
+    "end": 681.280029296875
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "They put trading strategies through an assembly line. They build methods to formulate, scale,",
+    "start": 681.280029296875,
+    "end": 686.719970703125
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "and monitor strategies. And if needed, retire them. With each strategy, they crawl, walk,",
+    "start": 686.7999877929688,
+    "end": 692.7999877929688
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "then run. And typically they run them until they break. And they have methods in place to",
+    "start": 692.7999877929688,
+    "end": 697.4400024414062
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "monitor and identify if they break. We often talk about trading as a business. This is what that",
+    "start": 697.4400024414062,
+    "end": 702.1599731445312
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "means. Now I'm about to show you a glimpse into our trading account and share with you the missing",
+    "start": 702.1599731445312,
+    "end": 707.280029296875
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "piece that ties all of this together. Because understanding this next piece is really what",
+    "start": 707.280029296875,
+    "end": 712.0
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "separates the amateurs from the pros. But before we do that, let's reinforce what you've learned",
+    "start": 712.0,
+    "end": 716.7999877929688
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "up to this point. First pros utilize an ensemble portfolio approach, a collection of truly",
+    "start": 716.7999877929688,
+    "end": 723.1199951171875
+  },
+  {
+    "type": "timestamp",
+    "value": "12:00"
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "uncorrelated and inversely correlated trading systems blended into one portfolio. Each system",
+    "start": 723.1199951171875,
+    "end": 728.719970703125
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "is built to serve a specific purpose and fill in the weaknesses of the others. So the whole becomes",
+    "start": 728.719970703125,
+    "end": 733.9199829101562
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "greater than the sum of its parts. Now you've probably heard the phrase diversification is the",
+    "start": 733.9199829101562,
+    "end": 738.4000244140625
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "only free lunch in investing. Well, this is true diversification, and this is how the pros reduce",
+    "start": 738.4000244140625,
+    "end": 744.239990234375
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "volatility, manage risk, and scale with confidence. Now check this out. I'm going to show you some",
+    "start": 744.239990234375,
+    "end": 749.760009765625
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "real money trades from our smaller portfolio. So on this day, you can see we had five algorithmic",
+    "start": 749.760009765625,
+    "end": 755.1199951171875
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "trading systems running, each one designed to approach the market differently. You can see the",
+    "start": 755.1199951171875,
+    "end": 759.5999755859375
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "first trade of the day fired near the market open. Now this is a short volatility trade that works",
+    "start": 759.5999755859375,
+    "end": 764.239990234375
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "best in choppy or mean reverting markets, but you can see clearly that's not what we got on this day.",
+    "start": 764.239990234375,
+    "end": 770.4000244140625
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "The market actually trended hard to the downside, selling off by more than 100 points, and we got",
+    "start": 770.4000244140625,
+    "end": 775.1199951171875
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "stopped out on the downside of this trade. But you can see while this was going on, our zero DTE wave",
+    "start": 775.1199951171875,
+    "end": 781.3599853515625
+  },
+  {
+    "type": "timestamp",
+    "value": "13:00"
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "system spotted the early weakness and immediately started placing bearish trades with the trend. So",
+    "start": 781.3599853515625,
+    "end": 787.2000122070312
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "we've got a mean reverting strategy combined with a bearish trend following strategy. And obviously",
+    "start": 787.2000122070312,
+    "end": 793.2000122070312
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "this worked out nicely because the profits from this system really helped to cushion the blow from",
+    "start": 793.2000122070312,
+    "end": 798.0800170898438
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "the losses on the first trade. Now fast forward to the end of the trading day as the market bottomed",
+    "start": 798.0800170898438,
+    "end": 802.8800048828125
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "and showed signs of strength, our power hour system started putting unused capital to work",
+    "start": 802.8800048828125,
+    "end": 808.3200073242188
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "with some bullish trades. In fact, these power hour trades tied up zero additional capital because we",
+    "start": 808.3200073242188,
+    "end": 814.1599731445312
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "were able to margin them against the bearish trades we were already in. So we're basically",
+    "start": 814.1599731445312,
+    "end": 818.5599975585938
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "squeezing all the juice out of this trading day that we possibly can. And at the end of the day,",
+    "start": 818.5599975585938,
+    "end": 823.280029296875
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "even though this first trade lost money, we barely felt it. And that's exactly the point, guys. Three",
+    "start": 823.280029296875,
+    "end": 827.760009765625
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "out of five of these systems traded on this day, but they aren't just three random strategies,",
+    "start": 827.760009765625,
+    "end": 832.4000244140625
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "right? Each of these strategies were designed to fill in the gaps and fill in the weaknesses of",
+    "start": 832.4000244140625,
+    "end": 837.760009765625
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "each other. They're built to serve a specific purpose in the portfolio. And I'll show you just",
+    "start": 837.760009765625,
+    "end": 842.4000244140625
+  },
+  {
+    "type": "timestamp",
+    "value": "14:00"
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "one more trading day to really drive this home. You can see this day started out by firing our",
+    "start": 842.4000244140625,
+    "end": 847.0399780273438
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "zero DTE range trade again, but with much better success this time, as you can see, it did turn out",
+    "start": 847.0399780273438,
+    "end": 852.0800170898438
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "to be a very choppy and mean reverting day. Now, the idea of the ensemble portfolio system goes",
+    "start": 852.0800170898438,
+    "end": 857.6799926757812
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "beyond just running multiple systems, right? You can actually practice this ensemble approach",
+    "start": 857.6799926757812,
+    "end": 863.2000122070312
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "within each system itself. And you can see this by looking at our zero DTE green day system.",
+    "start": 863.2000122070312,
+    "end": 868.9600219726562
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "This green day strategy didn't just take one shot. In fact, it entered in tranches scaling into the",
+    "start": 869.760009765625,
+    "end": 875.8400268554688
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "move throughout the day and diversifying by entry time to spread out our risk and remove timing from",
+    "start": 875.8400268554688,
+    "end": 882.6400146484375
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "the equation. So not only can you diversify by strategy, you can also diversify by time",
+    "start": 882.6400146484375,
+    "end": 888.6400146484375
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "within a strategy itself. And you can clearly see this with green day, how one entry stopped",
+    "start": 889.3599853515625,
+    "end": 894.6400146484375
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "out on this down move, but green day overall made money on this day. All right, cool. So we",
+    "start": 894.6400146484375,
+    "end": 899.280029296875
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "have an ensemble portfolio of trading systems working beautifully, but there's another problem",
+    "start": 899.280029296875,
+    "end": 904.7999877929688
+  },
+  {
+    "type": "timestamp",
+    "value": "15:00"
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "and it's kind of a big one. The problem is trading all these systems manually is nearly",
+    "start": 904.7999877929688,
+    "end": 911.1199951171875
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "an impossible task. You're talking about five systems, each with different rules, timeframes,",
+    "start": 911.1199951171875,
+    "end": 916.9600219726562
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "entries and exits. It would be like trying to play five games of chess at once, each with its own",
+    "start": 916.9600219726562,
+    "end": 922.5599975585938
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "board timer and different opponent. And you're expected to make the right move on every single",
+    "start": 922.5599975585938,
+    "end": 927.6799926757812
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "one of them in real time. And the fact is most people don't have seven hours a day to sit and",
+    "start": 927.6799926757812,
+    "end": 932.47998046875
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "stare at the markets between your job, your family, trying to live life. It would be impossible",
+    "start": 932.47998046875,
+    "end": 938.47998046875
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "to keep up with these systems. So how are we going to trade all of these systems? Well, you've got",
+    "start": 938.47998046875,
+    "end": 943.5999755859375
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "three options. Option one is quit your job and trade them manually. Aside from the fact that",
+    "start": 943.5999755859375,
+    "end": 949.52001953125
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "this would be emotional torture, unless you're a robot, it's just a recipe for disaster. Humans are",
+    "start": 949.52001953125,
+    "end": 956.4000244140625
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "slow. We hesitate. We overthink. Even the most disciplined traders fall victim to fear, greed,",
+    "start": 956.4000244140625,
+    "end": 963.9199829101562
+  },
+  {
+    "type": "timestamp",
+    "value": "16:00"
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "or overconfidence. So it's just not efficient. Now option two is hire a team of traders to manage",
+    "start": 963.9199829101562,
+    "end": 970.719970703125
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "each system individually. Now this is actually what the big hedge funds used to do. The top",
+    "start": 970.719970703125,
+    "end": 976.47998046875
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "portfolio managers never placed the trades themselves. Instead, they kept a high level view",
+    "start": 976.47998046875,
+    "end": 981.8400268554688
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "and stayed focused on the bigger picture. But unless you've got $50 million in capital, this",
+    "start": 981.8400268554688,
+    "end": 987.9199829101562
+  },
+  {
+    "type": "visual",
+    "timestamp_seconds": 985,
+    "timestamp_label": "16:25",
+    "visual_type": "Screen",
+    "description": "Screen recording of a trading account/dashboard alongside (or within) an automation/execution software interface. It’s used as proof-of-work to make the automation claim feel real: market trending up, system firing bullish trades, profits visible.",
+    "image_path": "tmp/frames/RHxd5EVmpuU/frame_985s.png"
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "option is probably off the table. Option three is use technology to automate your trading. And this",
+    "start": 987.9199829101562,
+    "end": 994.47998046875
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "is exactly what we do. It's pretty much what all the pro traders nowadays are doing. Automation",
+    "start": 994.47998046875,
+    "end": 999.2000122070312
+  },
+  {
+    "type": "visual",
+    "timestamp_seconds": 995,
+    "timestamp_label": "16:35",
+    "visual_type": "Screen",
+    "description": "Same screen-based proof segment: trading account P&L and recent trades visible while he narrates hedge-fund workflow vs retail constraints. The visual reinforces ‘this is running without me’ and ‘profits are happening.’",
+    "image_path": "tmp/frames/RHxd5EVmpuU/frame_995s.png"
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "allows us to easily run all of these systems in parallel flawlessly while we go on with our lives.",
+    "start": 999.2000122070312,
+    "end": 1005.5999755859375
+  },
+  {
+    "type": "visual",
+    "timestamp_seconds": 1000,
+    "timestamp_label": "16:40",
+    "visual_type": "Screen",
+    "description": "Continued platform/account view while he pivots from ‘proof’ to ‘I won’t share specifics on YouTube.’ The screen acts as a teaser: enough to imply legitimacy, not enough to replicate.",
+    "image_path": "tmp/frames/RHxd5EVmpuU/frame_1000s.png"
+  },
+  {
+    "type": "visual",
+    "timestamp_seconds": 1005,
+    "timestamp_label": "16:45",
+    "visual_type": "Screen",
+    "description": "Same screen segment; the visual remains a trading dashboard while the narration continues the ‘hedge funds do this / retail can’t’ framing and the automation pitch. It functions as ongoing credibility wallpaper rather than instructional content.",
+    "image_path": "tmp/frames/RHxd5EVmpuU/frame_1005s.png"
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "And I'll show you exactly what this looks like. You're looking at my trading account right here",
+    "start": 1005.5999755859375,
+    "end": 1009.3599853515625
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "and also the software we use to execute our strategies. You see the market has been trending",
+    "start": 1009.4400024414062,
+    "end": 1014.47998046875
+  },
+  {
+    "type": "visual",
+    "timestamp_seconds": 1010,
+    "timestamp_label": "16:50",
+    "visual_type": "Screen",
+    "description": "Trading account/software still on screen as he explicitly transitions into community/offer language. The platform view continues to imply ‘real trading happening’ while he sets up the next funnel step.",
+    "image_path": "tmp/frames/RHxd5EVmpuU/frame_1010s.png"
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "up all day and our strategies have been riding this trend by firing off some bullish trades.",
+    "start": 1014.47998046875,
+    "end": 1020.0800170898438
+  },
+  {
+    "type": "timestamp",
+    "value": "17:00"
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "And you see we got some nice profits here. Now, obviously daily P&L doesn't really matter. It's",
+    "start": 1020.0800170898438,
+    "end": 1025.199951171875
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "not really something we even look at. But some of you guys have been asking about my performance",
+    "start": 1025.199951171875,
+    "end": 1029.6800537109375
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "and also about my strategies. And I'm definitely not going to share all the specifics in a YouTube",
+    "start": 1029.6800537109375,
+    "end": 1035.3599853515625
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "video. I'm sure you can understand. We did decide to open up a small community and share some of",
+    "start": 1035.3599853515625,
+    "end": 1040.1600341796875
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "what we're doing behind the scenes. You can see some of our trading performance and follow it in",
+    "start": 1040.1600341796875,
+    "end": 1044.4000244140625
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "real time. It's a fun place to be and a really valuable place to improve your trading. I'm",
+    "start": 1044.4000244140625,
+    "end": 1049.8399658203125
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "extremely bullish on everything we're doing. And if you want to get involved, be sure to check that",
+    "start": 1049.8399658203125,
+    "end": 1053.52001953125
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "out. There's a link in the description. And you can see these trades firing off as I speak. But",
+    "start": 1053.52001953125,
+    "end": 1057.9200439453125
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "how cool is this, guys? I'm able to do my job. I'm able to record this video, serve our community,",
+    "start": 1057.9200439453125,
+    "end": 1063.3599853515625
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "research and develop trading strategies. These are all high ROI activities. And obviously,",
+    "start": 1063.3599853515625,
+    "end": 1069.760009765625
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "my job is trading. But the act of actually staring at a screen stressed out while you place these",
+    "start": 1069.760009765625,
+    "end": 1076.3199462890625
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "trades manually is a zero ROI activity. And technology is better at it anyways. I'd much",
+    "start": 1076.3199462890625,
+    "end": 1082.3199462890625
+  },
+  {
+    "type": "timestamp",
+    "value": "18:00"
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "rather spend my time on high ROI activities and actually enjoying life, serving our community",
+    "start": 1082.3199462890625,
+    "end": 1088.719970703125
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "and not wasting my time mind numbingly watching the markets. And I know that's fun for some",
+    "start": 1088.719970703125,
+    "end": 1094.3199462890625
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "traders, but we don't trade for fun. Pros don't trade for fun. We trade to make money. We don't",
+    "start": 1094.3199462890625,
+    "end": 1100.3199462890625
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "do it to cure boredom or to satisfy a gambling addiction. Again, pros don't trade for those",
+    "start": 1100.3199462890625,
+    "end": 1105.6800537109375
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "reasons. And guys, so much of trading is mental. But so many mental game issues get solved when",
+    "start": 1105.6800537109375,
+    "end": 1112.1600341796875
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "you automate your trading and when you just stop staring at the market all day. I myself had tens",
+    "start": 1112.1600341796875,
+    "end": 1117.8399658203125
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "of thousands of trades under my belt. And before we started automating 100% of our trading, even I",
+    "start": 1117.8399658203125,
+    "end": 1123.280029296875
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "was guilty of overthinking trades and even letting whatever I saw on the internet or TV that day sway",
+    "start": 1123.280029296875,
+    "end": 1129.6800537109375
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "my trading style. And something most traders forget, if all your testing assumes perfect",
+    "start": 1129.6800537109375,
+    "end": 1134.239990234375
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "execution and no human error, but then you're trading manually, there's no way your live results",
+    "start": 1134.239990234375,
+    "end": 1139.5999755859375
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "are ever going to match up. And this is why if you want to trade like the pros, you need to",
+    "start": 1139.5999755859375,
+    "end": 1143.52001953125
+  },
+  {
+    "type": "timestamp",
+    "value": "19:00"
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "leverage automation to execute and scale your ensemble portfolio. Automation handles execution",
+    "start": 1143.52001953125,
+    "end": 1150.0
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "with precision and helps to remove emotion. This means no more overthinking every trade",
+    "start": 1150.0,
+    "end": 1155.52001953125
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "and no more missing trades because you were stuck in a meeting or got a phone call. Automation also",
+    "start": 1156.0799560546875,
+    "end": 1160.9599609375
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "allows you to stop staring at every tick of the market. Guys, I cannot stress enough how valuable",
+    "start": 1160.9599609375,
+    "end": 1166.6400146484375
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "this is for your mental game. It's important to disconnect from that noise and instead maintain a",
+    "start": 1166.6400146484375,
+    "end": 1172.4000244140625
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "top-down view, a high-level view of your portfolio, just like the hedge funds have always done by",
+    "start": 1172.4000244140625,
+    "end": 1177.280029296875
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "hiring traders. And it's kind of like autopilot for your portfolio, right? Safer, smoother, and",
+    "start": 1177.280029296875,
+    "end": 1182.9599609375
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "more precise. And just like flying an airplane, autopilot doesn't mean the pilot should necessarily",
+    "start": 1182.9599609375,
+    "end": 1189.280029296875
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "tune out and fall asleep, but it does help you be a better and safer pilot. As you can see, if you",
+    "start": 1189.280029296875,
+    "end": 1194.56005859375
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "want any real consistency with your trading, you need to take this journey seriously and give it",
+    "start": 1194.56005859375,
+    "end": 1199.3599853515625
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "the respect it deserves. You need to treat trading like a business, not a hobby, because otherwise",
+    "start": 1199.3599853515625,
+    "end": 1204.4000244140625
+  },
+  {
+    "type": "timestamp",
+    "value": "20:00"
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "you're going to be competing against people who are dedicating our lives to this. Now guys, we're on",
+    "start": 1204.4000244140625,
+    "end": 1209.280029296875
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "a mission to become the top trading resource on YouTube because in a world full of fake gurus and",
+    "start": 1209.280029296875,
+    "end": 1216.0
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "empty promises, we feel like it's more important than ever to show you guys what real trading looks",
+    "start": 1216.0,
+    "end": 1220.4000244140625
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "like. And we're going to be pulling back the curtain. So if you found this video helpful,",
+    "start": 1220.4000244140625,
+    "end": 1223.9200439453125
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "be sure to drop a like, hit the subscribe button. We've got a lot more videos in the works. You're",
+    "start": 1223.9200439453125,
+    "end": 1228.8800048828125
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "not going to want to miss them. And if you want to go deeper and see more behind the scenes of",
+    "start": 1228.8800048828125,
+    "end": 1232.3199462890625
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "what we're doing, again, we can't share everything on YouTube, but we did open up a small private",
+    "start": 1232.3199462890625,
+    "end": 1236.8800048828125
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "community links in the description. So thanks again for watching. Hope you found this valuable.",
+    "start": 1236.8800048828125,
+    "end": 1241.5999755859375
+  },
+  {
+    "type": "text",
+    "speaker": "Speaker 1",
+    "text": "I'll see you in the next one.",
+    "start": 1241.5999755859375,
+    "end": 1251.199951171875
+  }
+]

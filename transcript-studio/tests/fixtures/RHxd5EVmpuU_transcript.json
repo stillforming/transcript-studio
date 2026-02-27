@@ -1,0 +1,1642 @@
+{
+  "videoId": "RHxd5EVmpuU",
+  "videoTitle": "The REAL Holy Grail In Trading",
+  "channelName": "Sky View Trading",
+  "channelSlug": "sky-view-trading",
+  "url": "https://youtube.com/watch?v=RHxd5EVmpuU",
+  "engine": "openai",
+  "model": "whisper-1",
+  "diarizationEnabled": false,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.119999885559082,
+      "text": "Have you ever wondered how Wall Street professionals consistently",
+      "speaker": "Speaker 1",
+      "minute_mark": "00:00"
+    },
+    {
+      "start": 3.119999885559082,
+      "end": 7.679999828338623,
+      "text": "outperform year after year while retail traders do nothing but spin their wheels",
+      "speaker": "Speaker 1",
+      "minute_mark": "00:00"
+    },
+    {
+      "start": 7.679999828338623,
+      "end": 12.399999618530273,
+      "text": "never gaining any traction? And while retail traders are scouring the internet to find a",
+      "speaker": "Speaker 1",
+      "minute_mark": "00:00"
+    },
+    {
+      "start": 12.399999618530273,
+      "end": 17.68000030517578,
+      "text": "holy grail trading strategy, professional traders are laughing all the way to the bank",
+      "speaker": "Speaker 1",
+      "minute_mark": "00:00"
+    },
+    {
+      "start": 17.68000030517578,
+      "end": 21.360000610351562,
+      "text": "because they understand they don't need a holy grail trading strategy to win.",
+      "speaker": "Speaker 1",
+      "minute_mark": "00:00"
+    },
+    {
+      "start": 21.360000610351562,
+      "end": 24.8799991607666,
+      "text": "Well in this video, I'm going to show you exactly how they're trading and how you can",
+      "speaker": "Speaker 1",
+      "minute_mark": "00:00"
+    },
+    {
+      "start": 24.8799991607666,
+      "end": 28.959999084472656,
+      "text": "trade more like the pros and less like all the other retail traders.",
+      "speaker": "Speaker 1",
+      "minute_mark": "00:00"
+    },
+    {
+      "start": 28.959999084472656,
+      "end": 32.47999954223633,
+      "text": "This video is going to completely shift the way you think about trading and how",
+      "speaker": "Speaker 1",
+      "minute_mark": "00:00"
+    },
+    {
+      "start": 32.47999954223633,
+      "end": 36.47999954223633,
+      "text": "you approach the markets. Because it's not that retail traders can't win,",
+      "speaker": "Speaker 1",
+      "minute_mark": "00:00"
+    },
+    {
+      "start": 36.47999954223633,
+      "end": 40.63999938964844,
+      "text": "they're just simply playing the wrong game. And you may be saying, well Adam,",
+      "speaker": "Speaker 1",
+      "minute_mark": "00:00"
+    },
+    {
+      "start": 40.63999938964844,
+      "end": 45.52000045776367,
+      "text": "these trading firms outperform because they have better technology, faster execution,",
+      "speaker": "Speaker 1",
+      "minute_mark": "00:00"
+    },
+    {
+      "start": 46.15999984741211,
+      "end": 51.84000015258789,
+      "text": "more data. And while that used to be true, it's just simply not the case anymore. The truth is,",
+      "speaker": "Speaker 1",
+      "minute_mark": "00:00"
+    },
+    {
+      "start": 51.84000015258789,
+      "end": 58.560001373291016,
+      "text": "the game has completely changed. Today, retail traders have access to everything the pros do.",
+      "speaker": "Speaker 1",
+      "minute_mark": "00:00"
+    },
+    {
+      "start": 58.560001373291016,
+      "end": 63.20000076293945,
+      "text": "We have access to the same data feeds. We have the same backtesting capabilities.",
+      "speaker": "Speaker 1",
+      "minute_mark": "00:00"
+    },
+    {
+      "start": 63.20000076293945,
+      "end": 67.36000061035156,
+      "text": "We even have automated execution with smart order routing. Long story short,",
+      "speaker": "Speaker 1",
+      "minute_mark": "01:00"
+    },
+    {
+      "start": 67.36000061035156,
+      "end": 71.91999816894531,
+      "text": "retail traders have everything they need to trade just like the top trading firms,",
+      "speaker": "Speaker 1",
+      "minute_mark": "01:00"
+    },
+    {
+      "start": 71.91999816894531,
+      "end": 77.68000030517578,
+      "text": "except one thing. They just don't know how to put it together. It's purely just a knowledge gap.",
+      "speaker": "Speaker 1",
+      "minute_mark": "01:00"
+    },
+    {
+      "start": 77.68000030517578,
+      "end": 81.36000061035156,
+      "text": "And in this video, I'm going to close that knowledge gap for you because there are three",
+      "speaker": "Speaker 1",
+      "minute_mark": "01:00"
+    },
+    {
+      "start": 81.36000061035156,
+      "end": 86.0,
+      "text": "things top trading firms focus on. And once you understand these, you'll never look at",
+      "speaker": "Speaker 1",
+      "minute_mark": "01:00"
+    },
+    {
+      "start": 86.0,
+      "end": 91.5999984741211,
+      "text": "trading the same way again. Let's dive into it. So what are these three things top firms focus on?",
+      "speaker": "Speaker 1",
+      "minute_mark": "01:00"
+    },
+    {
+      "start": 91.5999984741211,
+      "end": 95.27999877929688,
+      "text": "Well, the first one is the foundation of everything. And it's where most retail",
+      "speaker": "Speaker 1",
+      "minute_mark": "01:00"
+    },
+    {
+      "start": 95.27999877929688,
+      "end": 99.5999984741211,
+      "text": "traders go wrong right out of the gate. Because while amateur traders are chasing returns,",
+      "speaker": "Speaker 1",
+      "minute_mark": "01:00"
+    },
+    {
+      "start": 99.5999984741211,
+      "end": 104.80000305175781,
+      "text": "basically chasing their tail, professional traders have a completely different goal.",
+      "speaker": "Speaker 1",
+      "minute_mark": "01:00"
+    },
+    {
+      "start": 104.80000305175781,
+      "end": 108.72000122070312,
+      "text": "So that brings me to point number one, to trade more like top trading firms,",
+      "speaker": "Speaker 1",
+      "minute_mark": "01:00"
+    },
+    {
+      "start": 108.72000122070312,
+      "end": 114.0,
+      "text": "you must first understand the real goal of trading. You got to know what you're actually",
+      "speaker": "Speaker 1",
+      "minute_mark": "01:00"
+    },
+    {
+      "start": 114.0,
+      "end": 119.68000030517578,
+      "text": "trying to achieve. And no, it is not just make as much money as possible. I mean, think about it.",
+      "speaker": "Speaker 1",
+      "minute_mark": "01:00"
+    },
+    {
+      "start": 119.68000030517578,
+      "end": 125.76000213623047,
+      "text": "What is the goal of trading? Make money, right? Make as much money as possible. Okay, sure. But",
+      "speaker": "Speaker 1",
+      "minute_mark": "01:00"
+    },
+    {
+      "start": 125.76000213623047,
+      "end": 130.55999755859375,
+      "text": "what if I told you that's actually not the goal at all? That's simply just a side effect of chasing",
+      "speaker": "Speaker 1",
+      "minute_mark": "02:00"
+    },
+    {
+      "start": 130.55999755859375,
+      "end": 134.8800048828125,
+      "text": "a different goal entirely. Let me show you what I mean. I want you to look at these two investments",
+      "speaker": "Speaker 1",
+      "minute_mark": "02:00"
+    },
+    {
+      "start": 134.8800048828125,
+      "end": 140.24000549316406,
+      "text": "and tell me which one is better, green or black. Now, this one is pretty easy. I expect everyone",
+      "speaker": "Speaker 1",
+      "minute_mark": "02:00"
+    },
+    {
+      "start": 140.24000549316406,
+      "end": 145.75999450683594,
+      "text": "watching this video to answer this correctly. Both of these investments start and end in the",
+      "speaker": "Speaker 1",
+      "minute_mark": "02:00"
+    },
+    {
+      "start": 145.75999450683594,
+      "end": 151.1999969482422,
+      "text": "exact same place. So the return is identical, but clearly one of them is better. And if you answer",
+      "speaker": "Speaker 1",
+      "minute_mark": "02:00"
+    },
+    {
+      "start": 151.1999969482422,
+      "end": 156.0800018310547,
+      "text": "green, that's correct. I think we can all intuitively make that conclusion, right? It's",
+      "speaker": "Speaker 1",
+      "minute_mark": "02:00"
+    },
+    {
+      "start": 156.0800018310547,
+      "end": 161.67999267578125,
+      "text": "the exact same return, but with much more consistency. In the end, the investment represented",
+      "speaker": "Speaker 1",
+      "minute_mark": "02:00"
+    },
+    {
+      "start": 161.67999267578125,
+      "end": 166.8800048828125,
+      "text": "by the black line achieved the same return, but probably at the cost of many sleepless nights,",
+      "speaker": "Speaker 1",
+      "minute_mark": "02:00"
+    },
+    {
+      "start": 167.36000061035156,
+      "end": 173.44000244140625,
+      "text": "maybe a few gray hairs. But here's the thing. It's not just about sleeping better at night.",
+      "speaker": "Speaker 1",
+      "minute_mark": "02:00"
+    },
+    {
+      "start": 173.44000244140625,
+      "end": 178.39999389648438,
+      "text": "What if I told you there's actually a mathematical reason why the green line is better? And I'll",
+      "speaker": "Speaker 1",
+      "minute_mark": "02:00"
+    },
+    {
+      "start": 178.39999389648438,
+      "end": 182.72000122070312,
+      "text": "demonstrate this with a second question. Now, which one is better in this example,",
+      "speaker": "Speaker 1",
+      "minute_mark": "02:00"
+    },
+    {
+      "start": 182.72000122070312,
+      "end": 189.67999267578125,
+      "text": "blue or orange? I'm like an optometrist. Which one is more clear? No, the orange line achieved a",
+      "speaker": "Speaker 1",
+      "minute_mark": "03:00"
+    },
+    {
+      "start": 189.67999267578125,
+      "end": 195.75999450683594,
+      "text": "lower return, but also with very little volatility. And the blue line achieved a bigger return,",
+      "speaker": "Speaker 1",
+      "minute_mark": "03:00"
+    },
+    {
+      "start": 195.75999450683594,
+      "end": 201.0399932861328,
+      "text": "but obviously with more volatility. So which one would you choose? Now, most amateur traders",
+      "speaker": "Speaker 1",
+      "minute_mark": "03:00"
+    },
+    {
+      "start": 201.0399932861328,
+      "end": 207.0399932861328,
+      "text": "watching this video right now are screaming at the screen saying blue, because duh, more money.",
+      "speaker": "Speaker 1",
+      "minute_mark": "03:00"
+    },
+    {
+      "start": 207.0399932861328,
+      "end": 212.24000549316406,
+      "text": "But here's where the pros think differently. Most elite traders, even the aggressive ones who are",
+      "speaker": "Speaker 1",
+      "minute_mark": "03:00"
+    },
+    {
+      "start": 212.24000549316406,
+      "end": 218.32000732421875,
+      "text": "shooting for the biggest return possible, would choose the orange line, hands down. And I'll tell",
+      "speaker": "Speaker 1",
+      "minute_mark": "03:00"
+    },
+    {
+      "start": 218.32000732421875,
+      "end": 225.27999877929688,
+      "text": "you the reason. The reason is because in trading, you can always, in theory, add size, right? If",
+      "speaker": "Speaker 1",
+      "minute_mark": "03:00"
+    },
+    {
+      "start": 225.27999877929688,
+      "end": 231.1199951171875,
+      "text": "you can achieve the orange line, you can add size to achieve the green line or add even more size to",
+      "speaker": "Speaker 1",
+      "minute_mark": "03:00"
+    },
+    {
+      "start": 231.1199951171875,
+      "end": 237.0399932861328,
+      "text": "achieve the red line. Now I say in theory, because this assumes that returns don't diminish as you",
+      "speaker": "Speaker 1",
+      "minute_mark": "03:00"
+    },
+    {
+      "start": 237.0399932861328,
+      "end": 242.9600067138672,
+      "text": "add size due to market impact. But as long as you're sticking to pretty liquid markets and not",
+      "speaker": "Speaker 1",
+      "minute_mark": "03:00"
+    },
+    {
+      "start": 242.9600067138672,
+      "end": 247.27999877929688,
+      "text": "trading hundreds of millions of dollars, this is probably the least of your worries. The point is",
+      "speaker": "Speaker 1",
+      "minute_mark": "04:00"
+    },
+    {
+      "start": 247.27999877929688,
+      "end": 254.32000732421875,
+      "text": "to trade more like the pros, you have to stop chasing returns and instead engineer the equity",
+      "speaker": "Speaker 1",
+      "minute_mark": "04:00"
+    },
+    {
+      "start": 254.32000732421875,
+      "end": 261.0400085449219,
+      "text": "curve. Amateur traders chase the biggest return, pros engineer the shape of the return and then",
+      "speaker": "Speaker 1",
+      "minute_mark": "04:00"
+    },
+    {
+      "start": 261.0400085449219,
+      "end": 265.5199890136719,
+      "text": "scale it. Now, hedge funds understand this. If you walk into a hedge fund and pitch them your",
+      "speaker": "Speaker 1",
+      "minute_mark": "04:00"
+    },
+    {
+      "start": 265.5199890136719,
+      "end": 269.8399963378906,
+      "text": "strategy, the last thing they're going to ask is what's your return. They're going to ask about",
+      "speaker": "Speaker 1",
+      "minute_mark": "04:00"
+    },
+    {
+      "start": 269.8399963378906,
+      "end": 275.760009765625,
+      "text": "things like your risk management. They're going to ask for a few metrics, like your Sharpe ratio,",
+      "speaker": "Speaker 1",
+      "minute_mark": "04:00"
+    },
+    {
+      "start": 275.760009765625,
+      "end": 281.1199951171875,
+      "text": "your Sortino ratio, things that measure portfolio volatility. And you may be sitting there like,",
+      "speaker": "Speaker 1",
+      "minute_mark": "04:00"
+    },
+    {
+      "start": 281.67999267578125,
+      "end": 286.4800109863281,
+      "text": "why are they not asking about my returns? Because they know those metrics are where they need to be.",
+      "speaker": "Speaker 1",
+      "minute_mark": "04:00"
+    },
+    {
+      "start": 286.4800109863281,
+      "end": 290.79998779296875,
+      "text": "They can kind of create whatever return profile they want. Now, obviously, this is some high",
+      "speaker": "Speaker 1",
+      "minute_mark": "04:00"
+    },
+    {
+      "start": 290.79998779296875,
+      "end": 295.5199890136719,
+      "text": "level stuff. So you may be thinking, well, how are we going to design a trading strategy like this?",
+      "speaker": "Speaker 1",
+      "minute_mark": "04:00"
+    },
+    {
+      "start": 295.5199890136719,
+      "end": 300.0,
+      "text": "Well, first, let me tell you how we're definitely not going to do it. We're not going to do this by",
+      "speaker": "Speaker 1",
+      "minute_mark": "04:00"
+    },
+    {
+      "start": 300.0,
+      "end": 306.1600036621094,
+      "text": "trading one single trading strategy, even if it's a really good one. There just isn't a single trading",
+      "speaker": "Speaker 1",
+      "minute_mark": "05:00"
+    },
+    {
+      "start": 306.1600036621094,
+      "end": 312.239990234375,
+      "text": "strategy that will achieve this, at least not for any significant amount of time. If a single strategy",
+      "speaker": "Speaker 1",
+      "minute_mark": "05:00"
+    },
+    {
+      "start": 312.239990234375,
+      "end": 317.6000061035156,
+      "text": "does look like this for a year or two, it usually has something really ugly under the hood. I'm",
+      "speaker": "Speaker 1",
+      "minute_mark": "05:00"
+    },
+    {
+      "start": 317.6000061035156,
+      "end": 323.5199890136719,
+      "text": "talking about ticking time bomb strategies, things like Forex, Martingale, things that look really",
+      "speaker": "Speaker 1",
+      "minute_mark": "05:00"
+    },
+    {
+      "start": 323.5199890136719,
+      "end": 329.5199890136719,
+      "text": "great until they don't. Now, that's a topic for another video. But the point is no single strategy",
+      "speaker": "Speaker 1",
+      "minute_mark": "05:00"
+    },
+    {
+      "start": 329.5199890136719,
+      "end": 335.3599853515625,
+      "text": "is going to get you this consistent, scalable equity curve over the long run. No single strategy",
+      "speaker": "Speaker 1",
+      "minute_mark": "05:00"
+    },
+    {
+      "start": 335.3599853515625,
+      "end": 341.44000244140625,
+      "text": "is going to give you truly asymmetrical risk adjusted returns. There is no holy grail trading",
+      "speaker": "Speaker 1",
+      "minute_mark": "05:00"
+    },
+    {
+      "start": 341.44000244140625,
+      "end": 347.0400085449219,
+      "text": "strategy. Pros understand this, and that's why professionals prioritize portfolio construction",
+      "speaker": "Speaker 1",
+      "minute_mark": "05:00"
+    },
+    {
+      "start": 347.6000061035156,
+      "end": 353.67999267578125,
+      "text": "over individual strategies. And more specifically, they build what we call an ensemble portfolio.",
+      "speaker": "Speaker 1",
+      "minute_mark": "05:00"
+    },
+    {
+      "start": 353.67999267578125,
+      "end": 358.8800048828125,
+      "text": "This is the real holy grail, in my opinion. Let me show you how this is done in the real world.",
+      "speaker": "Speaker 1",
+      "minute_mark": "05:00"
+    },
+    {
+      "start": 358.8800048828125,
+      "end": 363.1199951171875,
+      "text": "Now, here you can see two trading systems simulated over the past three and a half years.",
+      "speaker": "Speaker 1",
+      "minute_mark": "05:00"
+    },
+    {
+      "start": 363.1199951171875,
+      "end": 370.1600036621094,
+      "text": "Strategy A is the blue line and strategy B is the red line. Which one of these is better? I want",
+      "speaker": "Speaker 1",
+      "minute_mark": "06:00"
+    },
+    {
+      "start": 370.1600036621094,
+      "end": 375.2799987792969,
+      "text": "you to answer this one last question. Both of them achieved the exact same return. They have a very",
+      "speaker": "Speaker 1",
+      "minute_mark": "06:00"
+    },
+    {
+      "start": 375.2799987792969,
+      "end": 381.9200134277344,
+      "text": "similar Sharpe ratio and a very similar volatility of the returns, but clearly they are inversely",
+      "speaker": "Speaker 1",
+      "minute_mark": "06:00"
+    },
+    {
+      "start": 381.9200134277344,
+      "end": 387.67999267578125,
+      "text": "correlated, right? When one zigs, the other zags. Now, you could argue that red is better because",
+      "speaker": "Speaker 1",
+      "minute_mark": "06:00"
+    },
+    {
+      "start": 387.67999267578125,
+      "end": 393.9200134277344,
+      "text": "technically it does have a smaller max drawdown, but I'd argue it's minimal and could be due to",
+      "speaker": "Speaker 1",
+      "minute_mark": "06:00"
+    },
+    {
+      "start": 394.4800109863281,
+      "end": 399.6000061035156,
+      "text": "just the sequence of returns. And even if it is a little better, I'm going to show you what's",
+      "speaker": "Speaker 1",
+      "minute_mark": "06:00"
+    },
+    {
+      "start": 399.6000061035156,
+      "end": 405.2799987792969,
+      "text": "better than both of these. How about instead of choosing one, we just combine them and run both,",
+      "speaker": "Speaker 1",
+      "minute_mark": "06:00"
+    },
+    {
+      "start": 406.0,
+      "end": 412.3999938964844,
+      "text": "right? So instead of allocating $30,000 to one of them, what if we just cut the size in half and run",
+      "speaker": "Speaker 1",
+      "minute_mark": "06:00"
+    },
+    {
+      "start": 413.3599853515625,
+      "end": 419.2799987792969,
+      "text": "on each of them? So still a total allocation of $30,000, but split between them. And you can see",
+      "speaker": "Speaker 1",
+      "minute_mark": "06:00"
+    },
+    {
+      "start": 419.2799987792969,
+      "end": 424.0799865722656,
+      "text": "what this looks like with the purple line. Now, this is actually one of the systems we're running",
+      "speaker": "Speaker 1",
+      "minute_mark": "06:00"
+    },
+    {
+      "start": 424.0799865722656,
+      "end": 430.79998779296875,
+      "text": "in our fund. Obviously we'd be insane to share exact specifics of it in a public video on YouTube.",
+      "speaker": "Speaker 1",
+      "minute_mark": "07:00"
+    },
+    {
+      "start": 430.79998779296875,
+      "end": 434.79998779296875,
+      "text": "I'm sure you can understand that, but if you do want to know exactly what the strategy is,",
+      "speaker": "Speaker 1",
+      "minute_mark": "07:00"
+    },
+    {
+      "start": 434.79998779296875,
+      "end": 439.9200134277344,
+      "text": "I'm going to tell you at the end of the video, how to access it. Now, aside from having a clearly",
+      "speaker": "Speaker 1",
+      "minute_mark": "07:00"
+    },
+    {
+      "start": 439.9200134277344,
+      "end": 444.0799865722656,
+      "text": "more stable equity curve, when you look at the chart, you can also see the other metrics here.",
+      "speaker": "Speaker 1",
+      "minute_mark": "07:00"
+    },
+    {
+      "start": 444.0799865722656,
+      "end": 450.0799865722656,
+      "text": "The Marr ratio is significantly higher. By the way, Marr ratio just simply means the,",
+      "speaker": "Speaker 1",
+      "minute_mark": "07:00"
+    },
+    {
+      "start": 450.0799865722656,
+      "end": 454.8800048828125,
+      "text": "it's the annualized return divided by the max drawdown. So the higher this number, the better",
+      "speaker": "Speaker 1",
+      "minute_mark": "07:00"
+    },
+    {
+      "start": 455.67999267578125,
+      "end": 460.7200012207031,
+      "text": "the sharp is also significantly better. And the volatility is much lower. Now, again,",
+      "speaker": "Speaker 1",
+      "minute_mark": "07:00"
+    },
+    {
+      "start": 460.7200012207031,
+      "end": 465.9200134277344,
+      "text": "the point of this video is not to confuse you with any math or anything, but the point is,",
+      "speaker": "Speaker 1",
+      "minute_mark": "07:00"
+    },
+    {
+      "start": 465.9200134277344,
+      "end": 470.3999938964844,
+      "text": "you can see that now that we have a smoother return with less volatility, now we have a",
+      "speaker": "Speaker 1",
+      "minute_mark": "07:00"
+    },
+    {
+      "start": 470.3999938964844,
+      "end": 475.44000244140625,
+      "text": "strategy we can scale. And the average capital required of each of these trades is actually",
+      "speaker": "Speaker 1",
+      "minute_mark": "07:00"
+    },
+    {
+      "start": 475.44000244140625,
+      "end": 480.79998779296875,
+      "text": "way smaller than the capital we're allocating. So what if we just add size, right? You can see",
+      "speaker": "Speaker 1",
+      "minute_mark": "07:00"
+    },
+    {
+      "start": 480.79998779296875,
+      "end": 487.1199951171875,
+      "text": "what that might look like. If we add 2X size or 3X size, you can see how this can start adding up",
+      "speaker": "Speaker 1",
+      "minute_mark": "08:00"
+    },
+    {
+      "start": 487.1199951171875,
+      "end": 492.8800048828125,
+      "text": "to some nicer returns. All right, cool. Now you could run this strategy. It's a pretty good one,",
+      "speaker": "Speaker 1",
+      "minute_mark": "08:00"
+    },
+    {
+      "start": 492.8800048828125,
+      "end": 498.3999938964844,
+      "text": "but what if it stops performing? Professional traders would never have a single point of failure",
+      "speaker": "Speaker 1",
+      "minute_mark": "08:00"
+    },
+    {
+      "start": 498.3999938964844,
+      "end": 505.3599853515625,
+      "text": "in their portfolios. So we don't stop here. For wall street pros, one or two strategies isn't",
+      "speaker": "Speaker 1",
+      "minute_mark": "08:00"
+    },
+    {
+      "start": 505.3599853515625,
+      "end": 509.9200134277344,
+      "text": "enough. In fact, here's a simulation of the strategies we're currently running in our Skyview",
+      "speaker": "Speaker 1",
+      "minute_mark": "08:00"
+    },
+    {
+      "start": 509.9200134277344,
+      "end": 515.52001953125,
+      "text": "portfolio, but how do we get here, right? Like what is this portfolio? Well, as you probably",
+      "speaker": "Speaker 1",
+      "minute_mark": "08:00"
+    },
+    {
+      "start": 515.52001953125,
+      "end": 520.8800048828125,
+      "text": "guessed, this is an ensemble portfolio made up of several trading strategies. And you can clearly",
+      "speaker": "Speaker 1",
+      "minute_mark": "08:00"
+    },
+    {
+      "start": 520.8800048828125,
+      "end": 526.47998046875,
+      "text": "see each of the individual strategies are much more volatile than the portfolio itself. But when",
+      "speaker": "Speaker 1",
+      "minute_mark": "08:00"
+    },
+    {
+      "start": 526.47998046875,
+      "end": 531.1199951171875,
+      "text": "you blend them together, we get exactly what we're looking for. But let's start from scratch. You can",
+      "speaker": "Speaker 1",
+      "minute_mark": "08:00"
+    },
+    {
+      "start": 531.1199951171875,
+      "end": 535.760009765625,
+      "text": "see on the left side, we have 10 trading strategies and we already have one of them turned on. Now,",
+      "speaker": "Speaker 1",
+      "minute_mark": "08:00"
+    },
+    {
+      "start": 536.3200073242188,
+      "end": 542.0800170898438,
+      "text": "this first one is a great strategy. It's got a very robust edge. And if we were running our",
+      "speaker": "Speaker 1",
+      "minute_mark": "08:00"
+    },
+    {
+      "start": 542.0800170898438,
+      "end": 548.239990234375,
+      "text": "whole portfolio on it, you can see we'd have achieved around a 15.8% annualized return with",
+      "speaker": "Speaker 1",
+      "minute_mark": "09:00"
+    },
+    {
+      "start": 548.239990234375,
+      "end": 554.47998046875,
+      "text": "a max drawdown of 14.4%. So at least it made money. But I don't think any of us would be",
+      "speaker": "Speaker 1",
+      "minute_mark": "09:00"
+    },
+    {
+      "start": 554.47998046875,
+      "end": 559.4400024414062,
+      "text": "thrilled with that. Not exactly a hedge fund grade equity curve here. But let me show you",
+      "speaker": "Speaker 1",
+      "minute_mark": "09:00"
+    },
+    {
+      "start": 559.4400024414062,
+      "end": 564.719970703125,
+      "text": "what happens when we turn each of these trading systems on. And these aren't just 10 random trading",
+      "speaker": "Speaker 1",
+      "minute_mark": "09:00"
+    },
+    {
+      "start": 564.719970703125,
+      "end": 569.1199951171875,
+      "text": "systems, by the way, these have all been meticulously designed to complement each other",
+      "speaker": "Speaker 1",
+      "minute_mark": "09:00"
+    },
+    {
+      "start": 569.1199951171875,
+      "end": 575.0399780273438,
+      "text": "and work together. And I'll show you some real trading action soon. But hang with me here. You",
+      "speaker": "Speaker 1",
+      "minute_mark": "09:00"
+    },
+    {
+      "start": 575.0399780273438,
+      "end": 580.0,
+      "text": "can see as we turn each of these trading systems on, the portfolio really starts to smooth out",
+      "speaker": "Speaker 1",
+      "minute_mark": "09:00"
+    },
+    {
+      "start": 580.6400146484375,
+      "end": 586.3200073242188,
+      "text": "and scale. Now, we're only four strategies in, but you can see the total portfolio has a higher",
+      "speaker": "Speaker 1",
+      "minute_mark": "09:00"
+    },
+    {
+      "start": 586.3200073242188,
+      "end": 593.280029296875,
+      "text": "return and a lower drawdown than each of the four strategies have by themselves. So significantly",
+      "speaker": "Speaker 1",
+      "minute_mark": "09:00"
+    },
+    {
+      "start": 593.280029296875,
+      "end": 599.280029296875,
+      "text": "better already. Now let's keep going. Now you can start to see how much better the portfolio looks.",
+      "speaker": "Speaker 1",
+      "minute_mark": "09:00"
+    },
+    {
+      "start": 599.280029296875,
+      "end": 603.9199829101562,
+      "text": "Remember, in the earlier example, I showed you how combining those two strategies,",
+      "speaker": "Speaker 1",
+      "minute_mark": "09:00"
+    },
+    {
+      "start": 603.9199829101562,
+      "end": 612.3200073242188,
+      "text": "we were able to achieve a mar ratio of 3.4. Well, you can see this portfolio has a mar ratio of 13.1.",
+      "speaker": "Speaker 1",
+      "minute_mark": "10:00"
+    },
+    {
+      "start": 612.3200073242188,
+      "end": 617.3599853515625,
+      "text": "And you can see the mar ratio of each individual strategy is nowhere close to that. Guys,",
+      "speaker": "Speaker 1",
+      "minute_mark": "10:00"
+    },
+    {
+      "start": 617.3599853515625,
+      "end": 622.47998046875,
+      "text": "think about how powerful this is. Not only have we significantly improved our portfolio,",
+      "speaker": "Speaker 1",
+      "minute_mark": "10:00"
+    },
+    {
+      "start": 622.47998046875,
+      "end": 627.760009765625,
+      "text": "but we've also reduced our reliance on a single trading system. So if one of these trading systems",
+      "speaker": "Speaker 1",
+      "minute_mark": "10:00"
+    },
+    {
+      "start": 627.760009765625,
+      "end": 633.1199951171875,
+      "text": "starts to degrade in performance, we have nine others to lean on. Now, they certainly could",
+      "speaker": "Speaker 1",
+      "minute_mark": "10:00"
+    },
+    {
+      "start": 633.1199951171875,
+      "end": 637.2000122070312,
+      "text": "start to degrade in performance all at the same time. That's called clustering. But we've",
+      "speaker": "Speaker 1",
+      "minute_mark": "10:00"
+    },
+    {
+      "start": 637.2000122070312,
+      "end": 642.719970703125,
+      "text": "significantly reduced our risk of that. Amateur traders are scouring the internet to find one",
+      "speaker": "Speaker 1",
+      "minute_mark": "10:00"
+    },
+    {
+      "start": 642.719970703125,
+      "end": 647.8400268554688,
+      "text": "good strategy. And when a strategy doesn't get them to where they want to go, they move on and",
+      "speaker": "Speaker 1",
+      "minute_mark": "10:00"
+    },
+    {
+      "start": 647.8400268554688,
+      "end": 653.52001953125,
+      "text": "search for the next Holy Grail. Pros understand that proper portfolio construction and efficient",
+      "speaker": "Speaker 1",
+      "minute_mark": "10:00"
+    },
+    {
+      "start": 653.52001953125,
+      "end": 658.5599975585938,
+      "text": "use of capital is the real Holy Grail. And I want to read you a quote from one of my favorite books,",
+      "speaker": "Speaker 1",
+      "minute_mark": "10:00"
+    },
+    {
+      "start": 658.5599975585938,
+      "end": 663.760009765625,
+      "text": "Advances in Financial Machine Learning by Dr. Marcus Lopez de Prado. He says,",
+      "speaker": "Speaker 1",
+      "minute_mark": "10:00"
+    },
+    {
+      "start": 663.760009765625,
+      "end": 668.8800048828125,
+      "text": "amateurs develop individual strategies, believing there is such a thing as a magical formula for",
+      "speaker": "Speaker 1",
+      "minute_mark": "11:00"
+    },
+    {
+      "start": 668.8800048828125,
+      "end": 675.3599853515625,
+      "text": "riches. In contrast, professionals develop methods to mass produce strategies. The money is not in",
+      "speaker": "Speaker 1",
+      "minute_mark": "11:00"
+    },
+    {
+      "start": 675.3599853515625,
+      "end": 681.280029296875,
+      "text": "making a car, it is in making a car factory. And that's what the pros do. They build the factory.",
+      "speaker": "Speaker 1",
+      "minute_mark": "11:00"
+    },
+    {
+      "start": 681.280029296875,
+      "end": 686.719970703125,
+      "text": "They put trading strategies through an assembly line. They build methods to formulate, scale,",
+      "speaker": "Speaker 1",
+      "minute_mark": "11:00"
+    },
+    {
+      "start": 686.7999877929688,
+      "end": 692.7999877929688,
+      "text": "and monitor strategies. And if needed, retire them. With each strategy, they crawl, walk,",
+      "speaker": "Speaker 1",
+      "minute_mark": "11:00"
+    },
+    {
+      "start": 692.7999877929688,
+      "end": 697.4400024414062,
+      "text": "then run. And typically they run them until they break. And they have methods in place to",
+      "speaker": "Speaker 1",
+      "minute_mark": "11:00"
+    },
+    {
+      "start": 697.4400024414062,
+      "end": 702.1599731445312,
+      "text": "monitor and identify if they break. We often talk about trading as a business. This is what that",
+      "speaker": "Speaker 1",
+      "minute_mark": "11:00"
+    },
+    {
+      "start": 702.1599731445312,
+      "end": 707.280029296875,
+      "text": "means. Now I'm about to show you a glimpse into our trading account and share with you the missing",
+      "speaker": "Speaker 1",
+      "minute_mark": "11:00"
+    },
+    {
+      "start": 707.280029296875,
+      "end": 712.0,
+      "text": "piece that ties all of this together. Because understanding this next piece is really what",
+      "speaker": "Speaker 1",
+      "minute_mark": "11:00"
+    },
+    {
+      "start": 712.0,
+      "end": 716.7999877929688,
+      "text": "separates the amateurs from the pros. But before we do that, let's reinforce what you've learned",
+      "speaker": "Speaker 1",
+      "minute_mark": "11:00"
+    },
+    {
+      "start": 716.7999877929688,
+      "end": 723.1199951171875,
+      "text": "up to this point. First pros utilize an ensemble portfolio approach, a collection of truly",
+      "speaker": "Speaker 1",
+      "minute_mark": "11:00"
+    },
+    {
+      "start": 723.1199951171875,
+      "end": 728.719970703125,
+      "text": "uncorrelated and inversely correlated trading systems blended into one portfolio. Each system",
+      "speaker": "Speaker 1",
+      "minute_mark": "12:00"
+    },
+    {
+      "start": 728.719970703125,
+      "end": 733.9199829101562,
+      "text": "is built to serve a specific purpose and fill in the weaknesses of the others. So the whole becomes",
+      "speaker": "Speaker 1",
+      "minute_mark": "12:00"
+    },
+    {
+      "start": 733.9199829101562,
+      "end": 738.4000244140625,
+      "text": "greater than the sum of its parts. Now you've probably heard the phrase diversification is the",
+      "speaker": "Speaker 1",
+      "minute_mark": "12:00"
+    },
+    {
+      "start": 738.4000244140625,
+      "end": 744.239990234375,
+      "text": "only free lunch in investing. Well, this is true diversification, and this is how the pros reduce",
+      "speaker": "Speaker 1",
+      "minute_mark": "12:00"
+    },
+    {
+      "start": 744.239990234375,
+      "end": 749.760009765625,
+      "text": "volatility, manage risk, and scale with confidence. Now check this out. I'm going to show you some",
+      "speaker": "Speaker 1",
+      "minute_mark": "12:00"
+    },
+    {
+      "start": 749.760009765625,
+      "end": 755.1199951171875,
+      "text": "real money trades from our smaller portfolio. So on this day, you can see we had five algorithmic",
+      "speaker": "Speaker 1",
+      "minute_mark": "12:00"
+    },
+    {
+      "start": 755.1199951171875,
+      "end": 759.5999755859375,
+      "text": "trading systems running, each one designed to approach the market differently. You can see the",
+      "speaker": "Speaker 1",
+      "minute_mark": "12:00"
+    },
+    {
+      "start": 759.5999755859375,
+      "end": 764.239990234375,
+      "text": "first trade of the day fired near the market open. Now this is a short volatility trade that works",
+      "speaker": "Speaker 1",
+      "minute_mark": "12:00"
+    },
+    {
+      "start": 764.239990234375,
+      "end": 770.4000244140625,
+      "text": "best in choppy or mean reverting markets, but you can see clearly that's not what we got on this day.",
+      "speaker": "Speaker 1",
+      "minute_mark": "12:00"
+    },
+    {
+      "start": 770.4000244140625,
+      "end": 775.1199951171875,
+      "text": "The market actually trended hard to the downside, selling off by more than 100 points, and we got",
+      "speaker": "Speaker 1",
+      "minute_mark": "12:00"
+    },
+    {
+      "start": 775.1199951171875,
+      "end": 781.3599853515625,
+      "text": "stopped out on the downside of this trade. But you can see while this was going on, our zero DTE wave",
+      "speaker": "Speaker 1",
+      "minute_mark": "12:00"
+    },
+    {
+      "start": 781.3599853515625,
+      "end": 787.2000122070312,
+      "text": "system spotted the early weakness and immediately started placing bearish trades with the trend. So",
+      "speaker": "Speaker 1",
+      "minute_mark": "13:00"
+    },
+    {
+      "start": 787.2000122070312,
+      "end": 793.2000122070312,
+      "text": "we've got a mean reverting strategy combined with a bearish trend following strategy. And obviously",
+      "speaker": "Speaker 1",
+      "minute_mark": "13:00"
+    },
+    {
+      "start": 793.2000122070312,
+      "end": 798.0800170898438,
+      "text": "this worked out nicely because the profits from this system really helped to cushion the blow from",
+      "speaker": "Speaker 1",
+      "minute_mark": "13:00"
+    },
+    {
+      "start": 798.0800170898438,
+      "end": 802.8800048828125,
+      "text": "the losses on the first trade. Now fast forward to the end of the trading day as the market bottomed",
+      "speaker": "Speaker 1",
+      "minute_mark": "13:00"
+    },
+    {
+      "start": 802.8800048828125,
+      "end": 808.3200073242188,
+      "text": "and showed signs of strength, our power hour system started putting unused capital to work",
+      "speaker": "Speaker 1",
+      "minute_mark": "13:00"
+    },
+    {
+      "start": 808.3200073242188,
+      "end": 814.1599731445312,
+      "text": "with some bullish trades. In fact, these power hour trades tied up zero additional capital because we",
+      "speaker": "Speaker 1",
+      "minute_mark": "13:00"
+    },
+    {
+      "start": 814.1599731445312,
+      "end": 818.5599975585938,
+      "text": "were able to margin them against the bearish trades we were already in. So we're basically",
+      "speaker": "Speaker 1",
+      "minute_mark": "13:00"
+    },
+    {
+      "start": 818.5599975585938,
+      "end": 823.280029296875,
+      "text": "squeezing all the juice out of this trading day that we possibly can. And at the end of the day,",
+      "speaker": "Speaker 1",
+      "minute_mark": "13:00"
+    },
+    {
+      "start": 823.280029296875,
+      "end": 827.760009765625,
+      "text": "even though this first trade lost money, we barely felt it. And that's exactly the point, guys. Three",
+      "speaker": "Speaker 1",
+      "minute_mark": "13:00"
+    },
+    {
+      "start": 827.760009765625,
+      "end": 832.4000244140625,
+      "text": "out of five of these systems traded on this day, but they aren't just three random strategies,",
+      "speaker": "Speaker 1",
+      "minute_mark": "13:00"
+    },
+    {
+      "start": 832.4000244140625,
+      "end": 837.760009765625,
+      "text": "right? Each of these strategies were designed to fill in the gaps and fill in the weaknesses of",
+      "speaker": "Speaker 1",
+      "minute_mark": "13:00"
+    },
+    {
+      "start": 837.760009765625,
+      "end": 842.4000244140625,
+      "text": "each other. They're built to serve a specific purpose in the portfolio. And I'll show you just",
+      "speaker": "Speaker 1",
+      "minute_mark": "13:00"
+    },
+    {
+      "start": 842.4000244140625,
+      "end": 847.0399780273438,
+      "text": "one more trading day to really drive this home. You can see this day started out by firing our",
+      "speaker": "Speaker 1",
+      "minute_mark": "14:00"
+    },
+    {
+      "start": 847.0399780273438,
+      "end": 852.0800170898438,
+      "text": "zero DTE range trade again, but with much better success this time, as you can see, it did turn out",
+      "speaker": "Speaker 1",
+      "minute_mark": "14:00"
+    },
+    {
+      "start": 852.0800170898438,
+      "end": 857.6799926757812,
+      "text": "to be a very choppy and mean reverting day. Now, the idea of the ensemble portfolio system goes",
+      "speaker": "Speaker 1",
+      "minute_mark": "14:00"
+    },
+    {
+      "start": 857.6799926757812,
+      "end": 863.2000122070312,
+      "text": "beyond just running multiple systems, right? You can actually practice this ensemble approach",
+      "speaker": "Speaker 1",
+      "minute_mark": "14:00"
+    },
+    {
+      "start": 863.2000122070312,
+      "end": 868.9600219726562,
+      "text": "within each system itself. And you can see this by looking at our zero DTE green day system.",
+      "speaker": "Speaker 1",
+      "minute_mark": "14:00"
+    },
+    {
+      "start": 869.760009765625,
+      "end": 875.8400268554688,
+      "text": "This green day strategy didn't just take one shot. In fact, it entered in tranches scaling into the",
+      "speaker": "Speaker 1",
+      "minute_mark": "14:00"
+    },
+    {
+      "start": 875.8400268554688,
+      "end": 882.6400146484375,
+      "text": "move throughout the day and diversifying by entry time to spread out our risk and remove timing from",
+      "speaker": "Speaker 1",
+      "minute_mark": "14:00"
+    },
+    {
+      "start": 882.6400146484375,
+      "end": 888.6400146484375,
+      "text": "the equation. So not only can you diversify by strategy, you can also diversify by time",
+      "speaker": "Speaker 1",
+      "minute_mark": "14:00"
+    },
+    {
+      "start": 889.3599853515625,
+      "end": 894.6400146484375,
+      "text": "within a strategy itself. And you can clearly see this with green day, how one entry stopped",
+      "speaker": "Speaker 1",
+      "minute_mark": "14:00"
+    },
+    {
+      "start": 894.6400146484375,
+      "end": 899.280029296875,
+      "text": "out on this down move, but green day overall made money on this day. All right, cool. So we",
+      "speaker": "Speaker 1",
+      "minute_mark": "14:00"
+    },
+    {
+      "start": 899.280029296875,
+      "end": 904.7999877929688,
+      "text": "have an ensemble portfolio of trading systems working beautifully, but there's another problem",
+      "speaker": "Speaker 1",
+      "minute_mark": "14:00"
+    },
+    {
+      "start": 904.7999877929688,
+      "end": 911.1199951171875,
+      "text": "and it's kind of a big one. The problem is trading all these systems manually is nearly",
+      "speaker": "Speaker 1",
+      "minute_mark": "15:00"
+    },
+    {
+      "start": 911.1199951171875,
+      "end": 916.9600219726562,
+      "text": "an impossible task. You're talking about five systems, each with different rules, timeframes,",
+      "speaker": "Speaker 1",
+      "minute_mark": "15:00"
+    },
+    {
+      "start": 916.9600219726562,
+      "end": 922.5599975585938,
+      "text": "entries and exits. It would be like trying to play five games of chess at once, each with its own",
+      "speaker": "Speaker 1",
+      "minute_mark": "15:00"
+    },
+    {
+      "start": 922.5599975585938,
+      "end": 927.6799926757812,
+      "text": "board timer and different opponent. And you're expected to make the right move on every single",
+      "speaker": "Speaker 1",
+      "minute_mark": "15:00"
+    },
+    {
+      "start": 927.6799926757812,
+      "end": 932.47998046875,
+      "text": "one of them in real time. And the fact is most people don't have seven hours a day to sit and",
+      "speaker": "Speaker 1",
+      "minute_mark": "15:00"
+    },
+    {
+      "start": 932.47998046875,
+      "end": 938.47998046875,
+      "text": "stare at the markets between your job, your family, trying to live life. It would be impossible",
+      "speaker": "Speaker 1",
+      "minute_mark": "15:00"
+    },
+    {
+      "start": 938.47998046875,
+      "end": 943.5999755859375,
+      "text": "to keep up with these systems. So how are we going to trade all of these systems? Well, you've got",
+      "speaker": "Speaker 1",
+      "minute_mark": "15:00"
+    },
+    {
+      "start": 943.5999755859375,
+      "end": 949.52001953125,
+      "text": "three options. Option one is quit your job and trade them manually. Aside from the fact that",
+      "speaker": "Speaker 1",
+      "minute_mark": "15:00"
+    },
+    {
+      "start": 949.52001953125,
+      "end": 956.4000244140625,
+      "text": "this would be emotional torture, unless you're a robot, it's just a recipe for disaster. Humans are",
+      "speaker": "Speaker 1",
+      "minute_mark": "15:00"
+    },
+    {
+      "start": 956.4000244140625,
+      "end": 963.9199829101562,
+      "text": "slow. We hesitate. We overthink. Even the most disciplined traders fall victim to fear, greed,",
+      "speaker": "Speaker 1",
+      "minute_mark": "15:00"
+    },
+    {
+      "start": 963.9199829101562,
+      "end": 970.719970703125,
+      "text": "or overconfidence. So it's just not efficient. Now option two is hire a team of traders to manage",
+      "speaker": "Speaker 1",
+      "minute_mark": "16:00"
+    },
+    {
+      "start": 970.719970703125,
+      "end": 976.47998046875,
+      "text": "each system individually. Now this is actually what the big hedge funds used to do. The top",
+      "speaker": "Speaker 1",
+      "minute_mark": "16:00"
+    },
+    {
+      "start": 976.47998046875,
+      "end": 981.8400268554688,
+      "text": "portfolio managers never placed the trades themselves. Instead, they kept a high level view",
+      "speaker": "Speaker 1",
+      "minute_mark": "16:00"
+    },
+    {
+      "start": 981.8400268554688,
+      "end": 987.9199829101562,
+      "text": "and stayed focused on the bigger picture. But unless you've got $50 million in capital, this",
+      "speaker": "Speaker 1",
+      "minute_mark": "16:00"
+    },
+    {
+      "start": 987.9199829101562,
+      "end": 994.47998046875,
+      "text": "option is probably off the table. Option three is use technology to automate your trading. And this",
+      "speaker": "Speaker 1",
+      "minute_mark": "16:00"
+    },
+    {
+      "start": 994.47998046875,
+      "end": 999.2000122070312,
+      "text": "is exactly what we do. It's pretty much what all the pro traders nowadays are doing. Automation",
+      "speaker": "Speaker 1",
+      "minute_mark": "16:00"
+    },
+    {
+      "start": 999.2000122070312,
+      "end": 1005.5999755859375,
+      "text": "allows us to easily run all of these systems in parallel flawlessly while we go on with our lives.",
+      "speaker": "Speaker 1",
+      "minute_mark": "16:00"
+    },
+    {
+      "start": 1005.5999755859375,
+      "end": 1009.3599853515625,
+      "text": "And I'll show you exactly what this looks like. You're looking at my trading account right here",
+      "speaker": "Speaker 1",
+      "minute_mark": "16:00"
+    },
+    {
+      "start": 1009.4400024414062,
+      "end": 1014.47998046875,
+      "text": "and also the software we use to execute our strategies. You see the market has been trending",
+      "speaker": "Speaker 1",
+      "minute_mark": "16:00"
+    },
+    {
+      "start": 1014.47998046875,
+      "end": 1020.0800170898438,
+      "text": "up all day and our strategies have been riding this trend by firing off some bullish trades.",
+      "speaker": "Speaker 1",
+      "minute_mark": "16:00"
+    },
+    {
+      "start": 1020.0800170898438,
+      "end": 1025.199951171875,
+      "text": "And you see we got some nice profits here. Now, obviously daily P&L doesn't really matter. It's",
+      "speaker": "Speaker 1",
+      "minute_mark": "17:00"
+    },
+    {
+      "start": 1025.199951171875,
+      "end": 1029.6800537109375,
+      "text": "not really something we even look at. But some of you guys have been asking about my performance",
+      "speaker": "Speaker 1",
+      "minute_mark": "17:00"
+    },
+    {
+      "start": 1029.6800537109375,
+      "end": 1035.3599853515625,
+      "text": "and also about my strategies. And I'm definitely not going to share all the specifics in a YouTube",
+      "speaker": "Speaker 1",
+      "minute_mark": "17:00"
+    },
+    {
+      "start": 1035.3599853515625,
+      "end": 1040.1600341796875,
+      "text": "video. I'm sure you can understand. We did decide to open up a small community and share some of",
+      "speaker": "Speaker 1",
+      "minute_mark": "17:00"
+    },
+    {
+      "start": 1040.1600341796875,
+      "end": 1044.4000244140625,
+      "text": "what we're doing behind the scenes. You can see some of our trading performance and follow it in",
+      "speaker": "Speaker 1",
+      "minute_mark": "17:00"
+    },
+    {
+      "start": 1044.4000244140625,
+      "end": 1049.8399658203125,
+      "text": "real time. It's a fun place to be and a really valuable place to improve your trading. I'm",
+      "speaker": "Speaker 1",
+      "minute_mark": "17:00"
+    },
+    {
+      "start": 1049.8399658203125,
+      "end": 1053.52001953125,
+      "text": "extremely bullish on everything we're doing. And if you want to get involved, be sure to check that",
+      "speaker": "Speaker 1",
+      "minute_mark": "17:00"
+    },
+    {
+      "start": 1053.52001953125,
+      "end": 1057.9200439453125,
+      "text": "out. There's a link in the description. And you can see these trades firing off as I speak. But",
+      "speaker": "Speaker 1",
+      "minute_mark": "17:00"
+    },
+    {
+      "start": 1057.9200439453125,
+      "end": 1063.3599853515625,
+      "text": "how cool is this, guys? I'm able to do my job. I'm able to record this video, serve our community,",
+      "speaker": "Speaker 1",
+      "minute_mark": "17:00"
+    },
+    {
+      "start": 1063.3599853515625,
+      "end": 1069.760009765625,
+      "text": "research and develop trading strategies. These are all high ROI activities. And obviously,",
+      "speaker": "Speaker 1",
+      "minute_mark": "17:00"
+    },
+    {
+      "start": 1069.760009765625,
+      "end": 1076.3199462890625,
+      "text": "my job is trading. But the act of actually staring at a screen stressed out while you place these",
+      "speaker": "Speaker 1",
+      "minute_mark": "17:00"
+    },
+    {
+      "start": 1076.3199462890625,
+      "end": 1082.3199462890625,
+      "text": "trades manually is a zero ROI activity. And technology is better at it anyways. I'd much",
+      "speaker": "Speaker 1",
+      "minute_mark": "17:00"
+    },
+    {
+      "start": 1082.3199462890625,
+      "end": 1088.719970703125,
+      "text": "rather spend my time on high ROI activities and actually enjoying life, serving our community",
+      "speaker": "Speaker 1",
+      "minute_mark": "18:00"
+    },
+    {
+      "start": 1088.719970703125,
+      "end": 1094.3199462890625,
+      "text": "and not wasting my time mind numbingly watching the markets. And I know that's fun for some",
+      "speaker": "Speaker 1",
+      "minute_mark": "18:00"
+    },
+    {
+      "start": 1094.3199462890625,
+      "end": 1100.3199462890625,
+      "text": "traders, but we don't trade for fun. Pros don't trade for fun. We trade to make money. We don't",
+      "speaker": "Speaker 1",
+      "minute_mark": "18:00"
+    },
+    {
+      "start": 1100.3199462890625,
+      "end": 1105.6800537109375,
+      "text": "do it to cure boredom or to satisfy a gambling addiction. Again, pros don't trade for those",
+      "speaker": "Speaker 1",
+      "minute_mark": "18:00"
+    },
+    {
+      "start": 1105.6800537109375,
+      "end": 1112.1600341796875,
+      "text": "reasons. And guys, so much of trading is mental. But so many mental game issues get solved when",
+      "speaker": "Speaker 1",
+      "minute_mark": "18:00"
+    },
+    {
+      "start": 1112.1600341796875,
+      "end": 1117.8399658203125,
+      "text": "you automate your trading and when you just stop staring at the market all day. I myself had tens",
+      "speaker": "Speaker 1",
+      "minute_mark": "18:00"
+    },
+    {
+      "start": 1117.8399658203125,
+      "end": 1123.280029296875,
+      "text": "of thousands of trades under my belt. And before we started automating 100% of our trading, even I",
+      "speaker": "Speaker 1",
+      "minute_mark": "18:00"
+    },
+    {
+      "start": 1123.280029296875,
+      "end": 1129.6800537109375,
+      "text": "was guilty of overthinking trades and even letting whatever I saw on the internet or TV that day sway",
+      "speaker": "Speaker 1",
+      "minute_mark": "18:00"
+    },
+    {
+      "start": 1129.6800537109375,
+      "end": 1134.239990234375,
+      "text": "my trading style. And something most traders forget, if all your testing assumes perfect",
+      "speaker": "Speaker 1",
+      "minute_mark": "18:00"
+    },
+    {
+      "start": 1134.239990234375,
+      "end": 1139.5999755859375,
+      "text": "execution and no human error, but then you're trading manually, there's no way your live results",
+      "speaker": "Speaker 1",
+      "minute_mark": "18:00"
+    },
+    {
+      "start": 1139.5999755859375,
+      "end": 1143.52001953125,
+      "text": "are ever going to match up. And this is why if you want to trade like the pros, you need to",
+      "speaker": "Speaker 1",
+      "minute_mark": "18:00"
+    },
+    {
+      "start": 1143.52001953125,
+      "end": 1150.0,
+      "text": "leverage automation to execute and scale your ensemble portfolio. Automation handles execution",
+      "speaker": "Speaker 1",
+      "minute_mark": "19:00"
+    },
+    {
+      "start": 1150.0,
+      "end": 1155.52001953125,
+      "text": "with precision and helps to remove emotion. This means no more overthinking every trade",
+      "speaker": "Speaker 1",
+      "minute_mark": "19:00"
+    },
+    {
+      "start": 1156.0799560546875,
+      "end": 1160.9599609375,
+      "text": "and no more missing trades because you were stuck in a meeting or got a phone call. Automation also",
+      "speaker": "Speaker 1",
+      "minute_mark": "19:00"
+    },
+    {
+      "start": 1160.9599609375,
+      "end": 1166.6400146484375,
+      "text": "allows you to stop staring at every tick of the market. Guys, I cannot stress enough how valuable",
+      "speaker": "Speaker 1",
+      "minute_mark": "19:00"
+    },
+    {
+      "start": 1166.6400146484375,
+      "end": 1172.4000244140625,
+      "text": "this is for your mental game. It's important to disconnect from that noise and instead maintain a",
+      "speaker": "Speaker 1",
+      "minute_mark": "19:00"
+    },
+    {
+      "start": 1172.4000244140625,
+      "end": 1177.280029296875,
+      "text": "top-down view, a high-level view of your portfolio, just like the hedge funds have always done by",
+      "speaker": "Speaker 1",
+      "minute_mark": "19:00"
+    },
+    {
+      "start": 1177.280029296875,
+      "end": 1182.9599609375,
+      "text": "hiring traders. And it's kind of like autopilot for your portfolio, right? Safer, smoother, and",
+      "speaker": "Speaker 1",
+      "minute_mark": "19:00"
+    },
+    {
+      "start": 1182.9599609375,
+      "end": 1189.280029296875,
+      "text": "more precise. And just like flying an airplane, autopilot doesn't mean the pilot should necessarily",
+      "speaker": "Speaker 1",
+      "minute_mark": "19:00"
+    },
+    {
+      "start": 1189.280029296875,
+      "end": 1194.56005859375,
+      "text": "tune out and fall asleep, but it does help you be a better and safer pilot. As you can see, if you",
+      "speaker": "Speaker 1",
+      "minute_mark": "19:00"
+    },
+    {
+      "start": 1194.56005859375,
+      "end": 1199.3599853515625,
+      "text": "want any real consistency with your trading, you need to take this journey seriously and give it",
+      "speaker": "Speaker 1",
+      "minute_mark": "19:00"
+    },
+    {
+      "start": 1199.3599853515625,
+      "end": 1204.4000244140625,
+      "text": "the respect it deserves. You need to treat trading like a business, not a hobby, because otherwise",
+      "speaker": "Speaker 1",
+      "minute_mark": "19:00"
+    },
+    {
+      "start": 1204.4000244140625,
+      "end": 1209.280029296875,
+      "text": "you're going to be competing against people who are dedicating our lives to this. Now guys, we're on",
+      "speaker": "Speaker 1",
+      "minute_mark": "20:00"
+    },
+    {
+      "start": 1209.280029296875,
+      "end": 1216.0,
+      "text": "a mission to become the top trading resource on YouTube because in a world full of fake gurus and",
+      "speaker": "Speaker 1",
+      "minute_mark": "20:00"
+    },
+    {
+      "start": 1216.0,
+      "end": 1220.4000244140625,
+      "text": "empty promises, we feel like it's more important than ever to show you guys what real trading looks",
+      "speaker": "Speaker 1",
+      "minute_mark": "20:00"
+    },
+    {
+      "start": 1220.4000244140625,
+      "end": 1223.9200439453125,
+      "text": "like. And we're going to be pulling back the curtain. So if you found this video helpful,",
+      "speaker": "Speaker 1",
+      "minute_mark": "20:00"
+    },
+    {
+      "start": 1223.9200439453125,
+      "end": 1228.8800048828125,
+      "text": "be sure to drop a like, hit the subscribe button. We've got a lot more videos in the works. You're",
+      "speaker": "Speaker 1",
+      "minute_mark": "20:00"
+    },
+    {
+      "start": 1228.8800048828125,
+      "end": 1232.3199462890625,
+      "text": "not going to want to miss them. And if you want to go deeper and see more behind the scenes of",
+      "speaker": "Speaker 1",
+      "minute_mark": "20:00"
+    },
+    {
+      "start": 1232.3199462890625,
+      "end": 1236.8800048828125,
+      "text": "what we're doing, again, we can't share everything on YouTube, but we did open up a small private",
+      "speaker": "Speaker 1",
+      "minute_mark": "20:00"
+    },
+    {
+      "start": 1236.8800048828125,
+      "end": 1241.5999755859375,
+      "text": "community links in the description. So thanks again for watching. Hope you found this valuable.",
+      "speaker": "Speaker 1",
+      "minute_mark": "20:00"
+    },
+    {
+      "start": 1241.5999755859375,
+      "end": 1251.199951171875,
+      "text": "I'll see you in the next one.",
+      "speaker": "Speaker 1",
+      "minute_mark": "20:00"
+    }
+  ],
+  "speakers": [
+    "Speaker 1"
+  ],
+  "full_text": "placeholder",
+  "raw_text": "Have you ever wondered how Wall Street professionals consistently outperform year after year while retail traders do nothing but spin their wheels never gaining any traction? And while retail traders are scouring the internet to find a holy grail trading strategy, professional traders are laughing all the way to the bank because they understand they don't need a holy grail trading strategy to win. Well in this video, I'm going to show you exactly how they're trading and how you can trade more like the pros and less like all the other retail traders. This video is going to completely shift the way you think about trading and how you approach the markets. Because it's not that retail traders can't win, they're just simply playing the wrong game. And you may be saying, well Adam, these trading firms outperform because they have better technology, faster execution, more data. And while that used to be true, it's just simply not the case anymore. The truth is, the game has completely changed. Today, retail traders have access to everything the pros do. We have access to the same data feeds. We have the same backtesting capabilities. We even have automated execution with smart order routing. Long story short, retail traders have everything they need to trade just like the top trading firms, except one thing. They just don't know how to put it together. It's purely just a knowledge gap. And in this video, I'm going to close that knowledge gap for you because there are three things top trading firms focus on. And once you understand these, you'll never look at trading the same way again. Let's dive into it. So what are these three things top firms focus on? Well, the first one is the foundation of everything. And it's where most retail traders go wrong right out of the gate. Because while amateur traders are chasing returns, basically chasing their tail, professional traders have a completely different goal. So that brings me to point number one, to trade more like top trading firms, you must first understand the real goal of trading. You got to know what you're actually trying to achieve. And no, it is not just make as much money as possible. I mean, think about it. What is the goal of trading? Make money, right? Make as much money as possible. Okay, sure. But what if I told you that's actually not the goal at all? That's simply just a side effect of chasing a different goal entirely. Let me show you what I mean. I want you to look at these two investments and tell me which one is better, green or black. Now, this one is pretty easy. I expect everyone watching this video to answer this correctly. Both of these investments start and end in the exact same place. So the return is identical, but clearly one of them is better. And if you answer green, that's correct. I think we can all intuitively make that conclusion, right? It's the exact same return, but with much more consistency. In the end, the investment represented by the black line achieved the same return, but probably at the cost of many sleepless nights, maybe a few gray hairs. But here's the thing. It's not just about sleeping better at night. What if I told you there's actually a mathematical reason why the green line is better? And I'll demonstrate this with a second question. Now, which one is better in this example, blue or orange? I'm like an optometrist. Which one is more clear? No, the orange line achieved a lower return, but also with very little volatility. And the blue line achieved a bigger return, but obviously with more volatility. So which one would you choose? Now, most amateur traders watching this video right now are screaming at the screen saying blue, because duh, more money. But here's where the pros think differently. Most elite traders, even the aggressive ones who are shooting for the biggest return possible, would choose the orange line, hands down. And I'll tell you the reason. The reason is because in trading, you can always, in theory, add size, right? If you can achieve the orange line, you can add size to achieve the green line or add even more size to achieve the red line. Now I say in theory, because this assumes that returns don't diminish as you add size due to market impact. But as long as you're sticking to pretty liquid markets and not trading hundreds of millions of dollars, this is probably the least of your worries. The point is to trade more like the pros, you have to stop chasing returns and instead engineer the equity curve. Amateur traders chase the biggest return, pros engineer the shape of the return and then scale it. Now, hedge funds understand this. If you walk into a hedge fund and pitch them your strategy, the last thing they're going to ask is what's your return. They're going to ask about things like your risk management. They're going to ask for a few metrics, like your Sharpe ratio, your Sortino ratio, things that measure portfolio volatility. And you may be sitting there like, why are they not asking about my returns? Because they know those metrics are where they need to be. They can kind of create whatever return profile they want. Now, obviously, this is some high level stuff. So you may be thinking, well, how are we going to design a trading strategy like this? Well, first, let me tell you how we're definitely not going to do it. We're not going to do this by trading one single trading strategy, even if it's a really good one. There just isn't a single trading strategy that will achieve this, at least not for any significant amount of time. If a single strategy does look like this for a year or two, it usually has something really ugly under the hood. I'm talking about ticking time bomb strategies, things like Forex, Martingale, things that look really great until they don't. Now, that's a topic for another video. But the point is no single strategy is going to get you this consistent, scalable equity curve over the long run. No single strategy is going to give you truly asymmetrical risk adjusted returns. There is no holy grail trading strategy. Pros understand this, and that's why professionals prioritize portfolio construction over individual strategies. And more specifically, they build what we call an ensemble portfolio. This is the real holy grail, in my opinion. Let me show you how this is done in the real world. Now, here you can see two trading systems simulated over the past three and a half years. Strategy A is the blue line and strategy B is the red line. Which one of these is better? I want you to answer this one last question. Both of them achieved the exact same return. They have a very similar Sharpe ratio and a very similar volatility of the returns, but clearly they are inversely correlated, right? When one zigs, the other zags. Now, you could argue that red is better because technically it does have a smaller max drawdown, but I'd argue it's minimal and could be due to just the sequence of returns. And even if it is a little better, I'm going to show you what's better than both of these. How about instead of choosing one, we just combine them and run both, right? So instead of allocating $30,000 to one of them, what if we just cut the size in half and run on each of them? So still a total allocation of $30,000, but split between them. And you can see what this looks like with the purple line. Now, this is actually one of the systems we're running in our fund. Obviously we'd be insane to share exact specifics of it in a public video on YouTube. I'm sure you can understand that, but if you do want to know exactly what the strategy is, I'm going to tell you at the end of the video, how to access it. Now, aside from having a clearly more stable equity curve, when you look at the chart, you can also see the other metrics here. The Marr ratio is significantly higher. By the way, Marr ratio just simply means the, it's the annualized return divided by the max drawdown. So the higher this number, the better the sharp is also significantly better. And the volatility is much lower. Now, again, the point of this video is not to confuse you with any math or anything, but the point is, you can see that now that we have a smoother return with less volatility, now we have a strategy we can scale. And the average capital required of each of these trades is actually way smaller than the capital we're allocating. So what if we just add size, right? You can see what that might look like. If we add 2X size or 3X size, you can see how this can start adding up to some nicer returns. All right, cool. Now you could run this strategy. It's a pretty good one, but what if it stops performing? Professional traders would never have a single point of failure in their portfolios. So we don't stop here. For wall street pros, one or two strategies isn't enough. In fact, here's a simulation of the strategies we're currently running in our Skyview portfolio, but how do we get here, right? Like what is this portfolio? Well, as you probably guessed, this is an ensemble portfolio made up of several trading strategies. And you can clearly see each of the individual strategies are much more volatile than the portfolio itself. But when you blend them together, we get exactly what we're looking for. But let's start from scratch. You can see on the left side, we have 10 trading strategies and we already have one of them turned on. Now, this first one is a great strategy. It's got a very robust edge. And if we were running our whole portfolio on it, you can see we'd have achieved around a 15.8% annualized return with a max drawdown of 14.4%. So at least it made money. But I don't think any of us would be thrilled with that. Not exactly a hedge fund grade equity curve here. But let me show you what happens when we turn each of these trading systems on. And these aren't just 10 random trading systems, by the way, these have all been meticulously designed to complement each other and work together. And I'll show you some real trading action soon. But hang with me here. You can see as we turn each of these trading systems on, the portfolio really starts to smooth out and scale. Now, we're only four strategies in, but you can see the total portfolio has a higher return and a lower drawdown than each of the four strategies have by themselves. So significantly better already. Now let's keep going. Now you can start to see how much better the portfolio looks. Remember, in the earlier example, I showed you how combining those two strategies, we were able to achieve a mar ratio of 3.4. Well, you can see this portfolio has a mar ratio of 13.1. And you can see the mar ratio of each individual strategy is nowhere close to that. Guys, think about how powerful this is. Not only have we significantly improved our portfolio, but we've also reduced our reliance on a single trading system. So if one of these trading systems starts to degrade in performance, we have nine others to lean on. Now, they certainly could start to degrade in performance all at the same time. That's called clustering. But we've significantly reduced our risk of that. Amateur traders are scouring the internet to find one good strategy. And when a strategy doesn't get them to where they want to go, they move on and search for the next Holy Grail. Pros understand that proper portfolio construction and efficient use of capital is the real Holy Grail. And I want to read you a quote from one of my favorite books, Advances in Financial Machine Learning by Dr. Marcus Lopez de Prado. He says, amateurs develop individual strategies, believing there is such a thing as a magical formula for riches. In contrast, professionals develop methods to mass produce strategies. The money is not in making a car, it is in making a car factory. And that's what the pros do. They build the factory. They put trading strategies through an assembly line. They build methods to formulate, scale, and monitor strategies. And if needed, retire them. With each strategy, they crawl, walk, then run. And typically they run them until they break. And they have methods in place to monitor and identify if they break. We often talk about trading as a business. This is what that means. Now I'm about to show you a glimpse into our trading account and share with you the missing piece that ties all of this together. Because understanding this next piece is really what separates the amateurs from the pros. But before we do that, let's reinforce what you've learned up to this point. First pros utilize an ensemble portfolio approach, a collection of truly uncorrelated and inversely correlated trading systems blended into one portfolio. Each system is built to serve a specific purpose and fill in the weaknesses of the others. So the whole becomes greater than the sum of its parts. Now you've probably heard the phrase diversification is the only free lunch in investing. Well, this is true diversification, and this is how the pros reduce volatility, manage risk, and scale with confidence. Now check this out. I'm going to show you some real money trades from our smaller portfolio. So on this day, you can see we had five algorithmic trading systems running, each one designed to approach the market differently. You can see the first trade of the day fired near the market open. Now this is a short volatility trade that works best in choppy or mean reverting markets, but you can see clearly that's not what we got on this day. The market actually trended hard to the downside, selling off by more than 100 points, and we got stopped out on the downside of this trade. But you can see while this was going on, our zero DTE wave system spotted the early weakness and immediately started placing bearish trades with the trend. So we've got a mean reverting strategy combined with a bearish trend following strategy. And obviously this worked out nicely because the profits from this system really helped to cushion the blow from the losses on the first trade. Now fast forward to the end of the trading day as the market bottomed and showed signs of strength, our power hour system started putting unused capital to work with some bullish trades. In fact, these power hour trades tied up zero additional capital because we were able to margin them against the bearish trades we were already in. So we're basically squeezing all the juice out of this trading day that we possibly can. And at the end of the day, even though this first trade lost money, we barely felt it. And that's exactly the point, guys. Three out of five of these systems traded on this day, but they aren't just three random strategies, right? Each of these strategies were designed to fill in the gaps and fill in the weaknesses of each other. They're built to serve a specific purpose in the portfolio. And I'll show you just one more trading day to really drive this home. You can see this day started out by firing our zero DTE range trade again, but with much better success this time, as you can see, it did turn out to be a very choppy and mean reverting day. Now, the idea of the ensemble portfolio system goes beyond just running multiple systems, right? You can actually practice this ensemble approach within each system itself. And you can see this by looking at our zero DTE green day system. This green day strategy didn't just take one shot. In fact, it entered in tranches scaling into the move throughout the day and diversifying by entry time to spread out our risk and remove timing from the equation. So not only can you diversify by strategy, you can also diversify by time within a strategy itself. And you can clearly see this with green day, how one entry stopped out on this down move, but green day overall made money on this day. All right, cool. So we have an ensemble portfolio of trading systems working beautifully, but there's another problem and it's kind of a big one. The problem is trading all these systems manually is nearly an impossible task. You're talking about five systems, each with different rules, timeframes, entries and exits. It would be like trying to play five games of chess at once, each with its own board timer and different opponent. And you're expected to make the right move on every single one of them in real time. And the fact is most people don't have seven hours a day to sit and stare at the markets between your job, your family, trying to live life. It would be impossible to keep up with these systems. So how are we going to trade all of these systems? Well, you've got three options. Option one is quit your job and trade them manually. Aside from the fact that this would be emotional torture, unless you're a robot, it's just a recipe for disaster. Humans are slow. We hesitate. We overthink. Even the most disciplined traders fall victim to fear, greed, or overconfidence. So it's just not efficient. Now option two is hire a team of traders to manage each system individually. Now this is actually what the big hedge funds used to do. The top portfolio managers never placed the trades themselves. Instead, they kept a high level view and stayed focused on the bigger picture. But unless you've got $50 million in capital, this option is probably off the table. Option three is use technology to automate your trading. And this is exactly what we do. It's pretty much what all the pro traders nowadays are doing. Automation allows us to easily run all of these systems in parallel flawlessly while we go on with our lives. And I'll show you exactly what this looks like. You're looking at my trading account right here and also the software we use to execute our strategies. You see the market has been trending up all day and our strategies have been riding this trend by firing off some bullish trades. And you see we got some nice profits here. Now, obviously daily P&L doesn't really matter. It's not really something we even look at. But some of you guys have been asking about my performance and also about my strategies. And I'm definitely not going to share all the specifics in a YouTube video. I'm sure you can understand. We did decide to open up a small community and share some of what we're doing behind the scenes. You can see some of our trading performance and follow it in real time. It's a fun place to be and a really valuable place to improve your trading. I'm extremely bullish on everything we're doing. And if you want to get involved, be sure to check that out. There's a link in the description. And you can see these trades firing off as I speak. But how cool is this, guys? I'm able to do my job. I'm able to record this video, serve our community, research and develop trading strategies. These are all high ROI activities. And obviously, my job is trading. But the act of actually staring at a screen stressed out while you place these trades manually is a zero ROI activity. And technology is better at it anyways. I'd much rather spend my time on high ROI activities and actually enjoying life, serving our community and not wasting my time mind numbingly watching the markets. And I know that's fun for some traders, but we don't trade for fun. Pros don't trade for fun. We trade to make money. We don't do it to cure boredom or to satisfy a gambling addiction. Again, pros don't trade for those reasons. And guys, so much of trading is mental. But so many mental game issues get solved when you automate your trading and when you just stop staring at the market all day. I myself had tens of thousands of trades under my belt. And before we started automating 100% of our trading, even I was guilty of overthinking trades and even letting whatever I saw on the internet or TV that day sway my trading style. And something most traders forget, if all your testing assumes perfect execution and no human error, but then you're trading manually, there's no way your live results are ever going to match up. And this is why if you want to trade like the pros, you need to leverage automation to execute and scale your ensemble portfolio. Automation handles execution with precision and helps to remove emotion. This means no more overthinking every trade and no more missing trades because you were stuck in a meeting or got a phone call. Automation also allows you to stop staring at every tick of the market. Guys, I cannot stress enough how valuable this is for your mental game. It's important to disconnect from that noise and instead maintain a top-down view, a high-level view of your portfolio, just like the hedge funds have always done by hiring traders. And it's kind of like autopilot for your portfolio, right? Safer, smoother, and more precise. And just like flying an airplane, autopilot doesn't mean the pilot should necessarily tune out and fall asleep, but it does help you be a better and safer pilot. As you can see, if you want any real consistency with your trading, you need to take this journey seriously and give it the respect it deserves. You need to treat trading like a business, not a hobby, because otherwise you're going to be competing against people who are dedicating our lives to this. Now guys, we're on a mission to become the top trading resource on YouTube because in a world full of fake gurus and empty promises, we feel like it's more important than ever to show you guys what real trading looks like. And we're going to be pulling back the curtain. So if you found this video helpful, be sure to drop a like, hit the subscribe button. We've got a lot more videos in the works. You're not going to want to miss them. And if you want to go deeper and see more behind the scenes of what we're doing, again, we can't share everything on YouTube, but we did open up a small private community links in the description. So thanks again for watching. Hope you found this valuable. I'll see you in the next one.",
+  "text": "Have you ever wondered how Wall Street professionals consistently outperform year after year while retail traders do nothing but spin their wheels never gaining any traction? And while retail traders are scouring the internet to find a holy grail trading strategy, professional traders are laughing all the way to the bank because they understand they don't need a holy grail trading strategy to win. Well in this video, I'm going to show you exactly how they're trading and how you can trade more like the pros and less like all the other retail traders. This video is going to completely shift the way you think about trading and how you approach the markets. Because it's not that retail traders can't win, they're just simply playing the wrong game. And you may be saying, well Adam, these trading firms outperform because they have better technology, faster execution, more data. And while that used to be true, it's just simply not the case anymore. The truth is, the game has completely changed. Today, retail traders have access to everything the pros do. We have access to the same data feeds. We have the same backtesting capabilities. We even have automated execution with smart order routing. Long story short, retail traders have everything they need to trade just like the top trading firms, except one thing. They just don't know how to put it together. It's purely just a knowledge gap. And in this video, I'm going to close that knowledge gap for you because there are three things top trading firms focus on. And once you understand these, you'll never look at trading the same way again. Let's dive into it. So what are these three things top firms focus on? Well, the first one is the foundation of everything. And it's where most retail traders go wrong right out of the gate. Because while amateur traders are chasing returns, basically chasing their tail, professional traders have a completely different goal. So that brings me to point number one, to trade more like top trading firms, you must first understand the real goal of trading. You got to know what you're actually trying to achieve. And no, it is not just make as much money as possible. I mean, think about it. What is the goal of trading? Make money, right? Make as much money as possible. Okay, sure. But what if I told you that's actually not the goal at all? That's simply just a side effect of chasing a different goal entirely. Let me show you what I mean. I want you to look at these two investments and tell me which one is better, green or black. Now, this one is pretty easy. I expect everyone watching this video to answer this correctly. Both of these investments start and end in the exact same place. So the return is identical, but clearly one of them is better. And if you answer green, that's correct. I think we can all intuitively make that conclusion, right? It's the exact same return, but with much more consistency. In the end, the investment represented by the black line achieved the same return, but probably at the cost of many sleepless nights, maybe a few gray hairs. But here's the thing. It's not just about sleeping better at night. What if I told you there's actually a mathematical reason why the green line is better? And I'll demonstrate this with a second question. Now, which one is better in this example, blue or orange? I'm like an optometrist. Which one is more clear? No, the orange line achieved a lower return, but also with very little volatility. And the blue line achieved a bigger return, but obviously with more volatility. So which one would you choose? Now, most amateur traders watching this video right now are screaming at the screen saying blue, because duh, more money. But here's where the pros think differently. Most elite traders, even the aggressive ones who are shooting for the biggest return possible, would choose the orange line, hands down. And I'll tell you the reason. The reason is because in trading, you can always, in theory, add size, right? If you can achieve the orange line, you can add size to achieve the green line or add even more size to achieve the red line. Now I say in theory, because this assumes that returns don't diminish as you add size due to market impact. But as long as you're sticking to pretty liquid markets and not trading hundreds of millions of dollars, this is probably the least of your worries. The point is to trade more like the pros, you have to stop chasing returns and instead engineer the equity curve. Amateur traders chase the biggest return, pros engineer the shape of the return and then scale it. Now, hedge funds understand this. If you walk into a hedge fund and pitch them your strategy, the last thing they're going to ask is what's your return. They're going to ask about things like your risk management. They're going to ask for a few metrics, like your Sharpe ratio, your Sortino ratio, things that measure portfolio volatility. And you may be sitting there like, why are they not asking about my returns? Because they know those metrics are where they need to be. They can kind of create whatever return profile they want. Now, obviously, this is some high level stuff. So you may be thinking, well, how are we going to design a trading strategy like this? Well, first, let me tell you how we're definitely not going to do it. We're not going to do this by trading one single trading strategy, even if it's a really good one. There just isn't a single trading strategy that will achieve this, at least not for any significant amount of time. If a single strategy does look like this for a year or two, it usually has something really ugly under the hood. I'm talking about ticking time bomb strategies, things like Forex, Martingale, things that look really great until they don't. Now, that's a topic for another video. But the point is no single strategy is going to get you this consistent, scalable equity curve over the long run. No single strategy is going to give you truly asymmetrical risk adjusted returns. There is no holy grail trading strategy. Pros understand this, and that's why professionals prioritize portfolio construction over individual strategies. And more specifically, they build what we call an ensemble portfolio. This is the real holy grail, in my opinion. Let me show you how this is done in the real world. Now, here you can see two trading systems simulated over the past three and a half years. Strategy A is the blue line and strategy B is the red line. Which one of these is better? I want you to answer this one last question. Both of them achieved the exact same return. They have a very similar Sharpe ratio and a very similar volatility of the returns, but clearly they are inversely correlated, right? When one zigs, the other zags. Now, you could argue that red is better because technically it does have a smaller max drawdown, but I'd argue it's minimal and could be due to just the sequence of returns. And even if it is a little better, I'm going to show you what's better than both of these. How about instead of choosing one, we just combine them and run both, right? So instead of allocating $30,000 to one of them, what if we just cut the size in half and run on each of them? So still a total allocation of $30,000, but split between them. And you can see what this looks like with the purple line. Now, this is actually one of the systems we're running in our fund. Obviously we'd be insane to share exact specifics of it in a public video on YouTube. I'm sure you can understand that, but if you do want to know exactly what the strategy is, I'm going to tell you at the end of the video, how to access it. Now, aside from having a clearly more stable equity curve, when you look at the chart, you can also see the other metrics here. The Marr ratio is significantly higher. By the way, Marr ratio just simply means the, it's the annualized return divided by the max drawdown. So the higher this number, the better the sharp is also significantly better. And the volatility is much lower. Now, again, the point of this video is not to confuse you with any math or anything, but the point is, you can see that now that we have a smoother return with less volatility, now we have a strategy we can scale. And the average capital required of each of these trades is actually way smaller than the capital we're allocating. So what if we just add size, right? You can see what that might look like. If we add 2X size or 3X size, you can see how this can start adding up to some nicer returns. All right, cool. Now you could run this strategy. It's a pretty good one, but what if it stops performing? Professional traders would never have a single point of failure in their portfolios. So we don't stop here. For wall street pros, one or two strategies isn't enough. In fact, here's a simulation of the strategies we're currently running in our Skyview portfolio, but how do we get here, right? Like what is this portfolio? Well, as you probably guessed, this is an ensemble portfolio made up of several trading strategies. And you can clearly see each of the individual strategies are much more volatile than the portfolio itself. But when you blend them together, we get exactly what we're looking for. But let's start from scratch. You can see on the left side, we have 10 trading strategies and we already have one of them turned on. Now, this first one is a great strategy. It's got a very robust edge. And if we were running our whole portfolio on it, you can see we'd have achieved around a 15.8% annualized return with a max drawdown of 14.4%. So at least it made money. But I don't think any of us would be thrilled with that. Not exactly a hedge fund grade equity curve here. But let me show you what happens when we turn each of these trading systems on. And these aren't just 10 random trading systems, by the way, these have all been meticulously designed to complement each other and work together. And I'll show you some real trading action soon. But hang with me here. You can see as we turn each of these trading systems on, the portfolio really starts to smooth out and scale. Now, we're only four strategies in, but you can see the total portfolio has a higher return and a lower drawdown than each of the four strategies have by themselves. So significantly better already. Now let's keep going. Now you can start to see how much better the portfolio looks. Remember, in the earlier example, I showed you how combining those two strategies, we were able to achieve a mar ratio of 3.4. Well, you can see this portfolio has a mar ratio of 13.1. And you can see the mar ratio of each individual strategy is nowhere close to that. Guys, think about how powerful this is. Not only have we significantly improved our portfolio, but we've also reduced our reliance on a single trading system. So if one of these trading systems starts to degrade in performance, we have nine others to lean on. Now, they certainly could start to degrade in performance all at the same time. That's called clustering. But we've significantly reduced our risk of that. Amateur traders are scouring the internet to find one good strategy. And when a strategy doesn't get them to where they want to go, they move on and search for the next Holy Grail. Pros understand that proper portfolio construction and efficient use of capital is the real Holy Grail. And I want to read you a quote from one of my favorite books, Advances in Financial Machine Learning by Dr. Marcus Lopez de Prado. He says, amateurs develop individual strategies, believing there is such a thing as a magical formula for riches. In contrast, professionals develop methods to mass produce strategies. The money is not in making a car, it is in making a car factory. And that's what the pros do. They build the factory. They put trading strategies through an assembly line. They build methods to formulate, scale, and monitor strategies. And if needed, retire them. With each strategy, they crawl, walk, then run. And typically they run them until they break. And they have methods in place to monitor and identify if they break. We often talk about trading as a business. This is what that means. Now I'm about to show you a glimpse into our trading account and share with you the missing piece that ties all of this together. Because understanding this next piece is really what separates the amateurs from the pros. But before we do that, let's reinforce what you've learned up to this point. First pros utilize an ensemble portfolio approach, a collection of truly uncorrelated and inversely correlated trading systems blended into one portfolio. Each system is built to serve a specific purpose and fill in the weaknesses of the others. So the whole becomes greater than the sum of its parts. Now you've probably heard the phrase diversification is the only free lunch in investing. Well, this is true diversification, and this is how the pros reduce volatility, manage risk, and scale with confidence. Now check this out. I'm going to show you some real money trades from our smaller portfolio. So on this day, you can see we had five algorithmic trading systems running, each one designed to approach the market differently. You can see the first trade of the day fired near the market open. Now this is a short volatility trade that works best in choppy or mean reverting markets, but you can see clearly that's not what we got on this day. The market actually trended hard to the downside, selling off by more than 100 points, and we got stopped out on the downside of this trade. But you can see while this was going on, our zero DTE wave system spotted the early weakness and immediately started placing bearish trades with the trend. So we've got a mean reverting strategy combined with a bearish trend following strategy. And obviously this worked out nicely because the profits from this system really helped to cushion the blow from the losses on the first trade. Now fast forward to the end of the trading day as the market bottomed and showed signs of strength, our power hour system started putting unused capital to work with some bullish trades. In fact, these power hour trades tied up zero additional capital because we were able to margin them against the bearish trades we were already in. So we're basically squeezing all the juice out of this trading day that we possibly can. And at the end of the day, even though this first trade lost money, we barely felt it. And that's exactly the point, guys. Three out of five of these systems traded on this day, but they aren't just three random strategies, right? Each of these strategies were designed to fill in the gaps and fill in the weaknesses of each other. They're built to serve a specific purpose in the portfolio. And I'll show you just one more trading day to really drive this home. You can see this day started out by firing our zero DTE range trade again, but with much better success this time, as you can see, it did turn out to be a very choppy and mean reverting day. Now, the idea of the ensemble portfolio system goes beyond just running multiple systems, right? You can actually practice this ensemble approach within each system itself. And you can see this by looking at our zero DTE green day system. This green day strategy didn't just take one shot. In fact, it entered in tranches scaling into the move throughout the day and diversifying by entry time to spread out our risk and remove timing from the equation. So not only can you diversify by strategy, you can also diversify by time within a strategy itself. And you can clearly see this with green day, how one entry stopped out on this down move, but green day overall made money on this day. All right, cool. So we have an ensemble portfolio of trading systems working beautifully, but there's another problem and it's kind of a big one. The problem is trading all these systems manually is nearly an impossible task. You're talking about five systems, each with different rules, timeframes, entries and exits. It would be like trying to play five games of chess at once, each with its own board timer and different opponent. And you're expected to make the right move on every single one of them in real time. And the fact is most people don't have seven hours a day to sit and stare at the markets between your job, your family, trying to live life. It would be impossible to keep up with these systems. So how are we going to trade all of these systems? Well, you've got three options. Option one is quit your job and trade them manually. Aside from the fact that this would be emotional torture, unless you're a robot, it's just a recipe for disaster. Humans are slow. We hesitate. We overthink. Even the most disciplined traders fall victim to fear, greed, or overconfidence. So it's just not efficient. Now option two is hire a team of traders to manage each system individually. Now this is actually what the big hedge funds used to do. The top portfolio managers never placed the trades themselves. Instead, they kept a high level view and stayed focused on the bigger picture. But unless you've got $50 million in capital, this option is probably off the table. Option three is use technology to automate your trading. And this is exactly what we do. It's pretty much what all the pro traders nowadays are doing. Automation allows us to easily run all of these systems in parallel flawlessly while we go on with our lives. And I'll show you exactly what this looks like. You're looking at my trading account right here and also the software we use to execute our strategies. You see the market has been trending up all day and our strategies have been riding this trend by firing off some bullish trades. And you see we got some nice profits here. Now, obviously daily P&L doesn't really matter. It's not really something we even look at. But some of you guys have been asking about my performance and also about my strategies. And I'm definitely not going to share all the specifics in a YouTube video. I'm sure you can understand. We did decide to open up a small community and share some of what we're doing behind the scenes. You can see some of our trading performance and follow it in real time. It's a fun place to be and a really valuable place to improve your trading. I'm extremely bullish on everything we're doing. And if you want to get involved, be sure to check that out. There's a link in the description. And you can see these trades firing off as I speak. But how cool is this, guys? I'm able to do my job. I'm able to record this video, serve our community, research and develop trading strategies. These are all high ROI activities. And obviously, my job is trading. But the act of actually staring at a screen stressed out while you place these trades manually is a zero ROI activity. And technology is better at it anyways. I'd much rather spend my time on high ROI activities and actually enjoying life, serving our community and not wasting my time mind numbingly watching the markets. And I know that's fun for some traders, but we don't trade for fun. Pros don't trade for fun. We trade to make money. We don't do it to cure boredom or to satisfy a gambling addiction. Again, pros don't trade for those reasons. And guys, so much of trading is mental. But so many mental game issues get solved when you automate your trading and when you just stop staring at the market all day. I myself had tens of thousands of trades under my belt. And before we started automating 100% of our trading, even I was guilty of overthinking trades and even letting whatever I saw on the internet or TV that day sway my trading style. And something most traders forget, if all your testing assumes perfect execution and no human error, but then you're trading manually, there's no way your live results are ever going to match up. And this is why if you want to trade like the pros, you need to leverage automation to execute and scale your ensemble portfolio. Automation handles execution with precision and helps to remove emotion. This means no more overthinking every trade and no more missing trades because you were stuck in a meeting or got a phone call. Automation also allows you to stop staring at every tick of the market. Guys, I cannot stress enough how valuable this is for your mental game. It's important to disconnect from that noise and instead maintain a top-down view, a high-level view of your portfolio, just like the hedge funds have always done by hiring traders. And it's kind of like autopilot for your portfolio, right? Safer, smoother, and more precise. And just like flying an airplane, autopilot doesn't mean the pilot should necessarily tune out and fall asleep, but it does help you be a better and safer pilot. As you can see, if you want any real consistency with your trading, you need to take this journey seriously and give it the respect it deserves. You need to treat trading like a business, not a hobby, because otherwise you're going to be competing against people who are dedicating our lives to this. Now guys, we're on a mission to become the top trading resource on YouTube because in a world full of fake gurus and empty promises, we feel like it's more important than ever to show you guys what real trading looks like. And we're going to be pulling back the curtain. So if you found this video helpful, be sure to drop a like, hit the subscribe button. We've got a lot more videos in the works. You're not going to want to miss them. And if you want to go deeper and see more behind the scenes of what we're doing, again, we can't share everything on YouTube, but we did open up a small private community links in the description. So thanks again for watching. Hope you found this valuable. I'll see you in the next one."
+}
