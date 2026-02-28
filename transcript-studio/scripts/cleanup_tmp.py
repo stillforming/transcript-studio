@@ -1,1 +1,1 @@
-/home/molt/clawd/skills/content-scout/scripts/cleanup_tmp.py
+../../content-scout/scripts/cleanup_tmp.py

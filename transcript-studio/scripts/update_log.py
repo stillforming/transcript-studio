@@ -1,1 +1,1 @@
-/home/molt/clawd/skills/content-scout/scripts/update_log.py
+../../content-scout/scripts/update_log.py

@@ -1,1 +1,1 @@
-/home/molt/clawd/skills/content-scout/scripts/download.py
+../../content-scout/scripts/download.py

@@ -1,1 +1,1 @@
-/home/molt/clawd/skills/content-scout/scripts/archive_transcripts.py
+../../content-scout/scripts/archive_transcripts.py

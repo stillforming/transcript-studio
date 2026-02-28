@@ -1,1 +1,1 @@
-/home/molt/clawd/skills/content-scout/scripts/classify_annotate.py
+../../content-scout/scripts/classify_annotate.py
