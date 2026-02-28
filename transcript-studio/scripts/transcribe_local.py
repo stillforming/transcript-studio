@@ -20,12 +20,12 @@ DEFAULT_OPENAI_MODEL = "whisper-1"
 PYANNOTE_MODEL = "pyannote/speaker-diarization-3.1"
 
 MLX_MODEL_ALIASES: dict[str, str] = {
-    "tiny": "mlx-community/whisper-tiny",
-    "base": "mlx-community/whisper-base",
-    "small": "mlx-community/whisper-small",
-    "medium": "mlx-community/whisper-medium",
-    "large-v2": "mlx-community/whisper-large-v2",
-    "large-v3": "mlx-community/whisper-large-v3",
+    "tiny": "mlx-community/whisper-tiny-mlx",
+    "base": "mlx-community/whisper-base-mlx",
+    "small": "mlx-community/whisper-small-mlx",
+    "medium": "mlx-community/whisper-medium-mlx",
+    "large-v2": "mlx-community/whisper-large-v2-mlx",
+    "large-v3": "mlx-community/whisper-large-v3-mlx",
     "large-v3-turbo": "mlx-community/whisper-large-v3-turbo",
 }
 
